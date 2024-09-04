@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-ND13YRR6SB"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-ND13YRR6SB');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {{if hasmath}} {{insert head_katex.html }}     {{end}}
+  {{if hascode}} {{insert head_highlight.html }}   {{end}}
+  {{insert style.html}}
+  {{isdef title}} <title>{{fill title}}</title>  {{end}}
+</head>
+<body>                      <!-- closed in foot.html -->
+{{insert pgwrap.html}}
+
+
+<!-- Content appended here (in class franklin-content) -->

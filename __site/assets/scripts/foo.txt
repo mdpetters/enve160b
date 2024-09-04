@@ -1,0 +1,6 @@
+┌ Franklin Warning: in <config.md>
+│ No 'config.md' file found. It is recommended to keep one.
+│ 
+│ Relevant pointers:
+│ - workflow and folder structure: https://franklinjl.org/workflow/
+└
