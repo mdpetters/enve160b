@@ -1,0 +1,46 @@
+# Particle Number and Ozone Lab 
+
+\learning{
+*At the end of this lab you will be*
+- able to explain the principle of operation for particle number measurement
+- able to explain the principle of operation for ozone measurement
+- able to contextualize measured ozone data with measurements provided by regional networks and the peer-reviewed literature.
+- able to use mapping software to analyze concentration data within a geospatial context 
+}
+
+\prompt{
+The objective is to explore spatial and temporal variability of particle number and ozone concentrations. Walk around in areas where you expect pollution sources will lead to elevated concentrations and, especially, concentration gradients that result. Plan your route before coming to lab on Monday and then use preliminary results when deciding what should be repeated, what changes in sampling strategy would be helpful, and what new areas you might go to for Wednesday. Though the ozone sensor records location, it is not especially reliable. If possible, track your location using an app on one of your phones. Decide whether to keep walking as you sample or to stop at pre-determined locations at varying distances downwind of the source(s) of interest. Take notes about where you are and when and what sources may be impacting your measurements at that time. Photographs and/or videos can be helpful in interpreting your data. Attempt a geospatial representation/analysis of the data, e.g. using [Folium](https://python-visualization.github.io/folium/latest/index.html) or any other software package.
+
+![](/assets/spatial.png)
+
+
+}
+
+~~~
+<img src="/assets/magic.png" alt="MAGIC" style="width:250px;">
+~~~
+~~~
+<img src="/assets/pom.png" alt="POM" style="width:150px;">
+~~~
+~~~
+<img src="/assets/co2.png" alt="CO2" style="width:150px;">
+~~~
+
+
+This lab uses a particle counter (MAGIC), ozone sensor (POM), and CO2 sensor. The three sensors are bundled together with their batteries in an open-top tool carrying case. Check the sensor displays frequently to ensure they are recording reasonable data, e.g. not zero. Try to keep the sensors shaded and cool on sunny days; the ozone sensor in particular has been found to stop recording if it overheats. If you have questions about the sensors or your preliminary data, return to lab to ask the instructors.
+
+The more data you have, the easier it will be to produce an interesting dataset and to ultimately write the report. Spend all or almost all of both class periods sampling. Even if it seems like you are just going back over your tracks, conditions change and so having measured at a location does not mean nothing is gained by measuring there again. Pay attention to wind direction as you determine where you should make downwind and upwind measurements of a source. Talk to the instructors if you would like to bring the sensors somewhere far from campus. You will undoubtedly observe varying concentrations as you walk around. It is important to understand how much of that variability is due to your distance from a source and how much is just natural. Ozone concentrations tend to increase with time in the early afternoon, which means that measurements made close to the beginning of class will likely be lower than those close to the end, even at the same location. Particle concentrations will likely change over the class period, though not in as a predictable way as with ozone. To get a sense of the level of short-term variability and to put observed changes with location into perspective, make measurements from a fixed location for maybe 5 or 10 minutes on each day.
+
+## Resources
+
+MAGIC Spec Sheet [(link)](https://aerosoldevices.com/wp-content/uploads/2019/08/MAGIC-Brochure.pdf)
+
+MAGIC Operating Manual [(link)](https://drive.google.com/file/d/1IFhgHghZkas__KqcxWsA0fCAwDZ64Dtg/view?usp=sharing)
+
+POM Operating Manual [(link)](https://drive.google.com/file/d/14Geh32gM_p1DhSeenHjuqi-WjUf-W0_h/view?usp=sharing)
+
+NWS Riverside Station [(link)](https://forecast.weather.gov/MapClick.php?lat=33.9813&lon=-117.3188&unit=0&lg=english&FcstType=graphical)
+
+CARB Ozone Data [(link)](https://www.arb.ca.gov/aqmis2/aqdselect.php?tab=daily)
+
+Folium Package [(link)](https://python-visualization.github.io/folium/latest/index.html)

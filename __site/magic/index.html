@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-ND13YRR6SB"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-ND13YRR6SB');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  
+  <link rel="stylesheet" href="/enve160b/css/jtd.css">
+<link rel="icon" href="/enve160b/assets/favicon.ico">
+
+<style>
+  /* #148 wrap long header */
+  .franklin-content a.header-anchor,
+  .franklin-toc li a
+   {
+    word-wrap: break-word;
+    white-space: normal;
+  }
+</style>
+
+   <title>Particle Number and Ozone Lab </title>  
+</head>
+<body>                      <!-- closed in foot.html -->
+<div class="page-wrap">   <!-- closed in foot.html -->
+  <!-- SIDE BAR -->
+  <div class="side-bar">
+    <div class="header">
+      <a href="/enve160b/" class="title">
+        ENVE-160B
+      </a>
+    </div>
+    <label for="show-menu" class="show-menu">MENU</label>
+    <input type="checkbox" id="show-menu" role="button">
+    <div class="menu" id="side-menu">
+      <ul class="menu-list">
+        <li class="menu-list-item "><a href="/enve160b/" class="menu-list-link ">Syllabus</a>
+        <li class="menu-list-item "><a href="/enve160b/labreport/" class="menu-list-link ">Reports</a>
+        <li class="menu-list-item "><a href="/enve160b/presentations/" class="menu-list-link ">Presentations</a>
+        <li class="menu-list-item "><a href="/enve160b/evaluation/" class="menu-list-link ">Peer Evaluation</a>
+        <li class="menu-list-item "><a href="/enve160b/session1/" class="menu-list-link ">1. Sunphotometer</a>
+        <li class="menu-list-item "><a href="/enve160b/session2/" class="menu-list-link ">2. Exposure</a>
+        <li class="menu-list-item "><a href="/enve160b/carbonyl/" class="menu-list-link ">3. Carbonyls</a>
+        <li class="menu-list-item active"><a href="/enve160b/magic/" class="menu-list-link ">4. PN & O3</a>
+      </ul>
+    </div>
+    <div class="footer">
+      UC Riverside</a>
+    </div>
+  </div>
+  <!-- CONTENT -->
+  <div class="main-content-wrap"> <!-- closed in foot.html -->
+    <div class="main-content">    <!-- closed in foot.html -->
+      <div class="main-header">
+        <a id="github" href="">Environmental Engineering Laboratory</a>
+      </div>
+
+
+
+<!-- Content appended here (in class franklin-content) -->
+<div class="franklin-content"><h1 id="particle_number_and_ozone_lab"><a href="#particle_number_and_ozone_lab" class="header-anchor">Particle Number and Ozone Lab </a></h1>
+<div class="learning"><div class="title"><strong>⏻ Learning Objectives</strong></div>
+<div class="content"><p><em>At the end of this lab you will be</em></p>
+<ul>
+<li><p>able to explain the principle of operation for particle number measurement</p>
+</li>
+<li><p>able to explain the principle of operation for ozone measurement</p>
+</li>
+<li><p>able to contextualize measured ozone data with measurements provided by regional networks and the peer-reviewed literature.</p>
+</li>
+<li><p>able to use mapping software to analyze concentration data within a geospatial context</p>
+</li>
+</ul></div></div>
+<div class="exercise"><div class="title"><strong>⌨ Prompt</strong></div>
+<div class="content"><p>The objective is to explore spatial and temporal variability of particle number and ozone concentrations. Walk around in areas where you expect pollution sources will lead to elevated concentrations and, especially, concentration gradients that result. Plan your route before coming to lab on Monday and then use preliminary results when deciding what should be repeated, what changes in sampling strategy would be helpful, and what new areas you might go to for Wednesday. Though the ozone sensor records location, it is not especially reliable. If possible, track your location using an app on one of your phones. Decide whether to keep walking as you sample or to stop at pre-determined locations at varying distances downwind of the source&#40;s&#41; of interest. Take notes about where you are and when and what sources may be impacting your measurements at that time. Photographs and/or videos can be helpful in interpreting your data. Attempt a geospatial representation/analysis of the data, e.g. using <a href="https://python-visualization.github.io/folium/latest/index.html">Folium</a> or any other software package.</p>
+<p><img src="/enve160b/assets/spatial.png" alt="" /></p></div></div>
+<p>
+<img src="/enve160b/assets/magic.png" alt="MAGIC" style="width:250px;">
+ 
+<img src="/enve160b/assets/pom.png" alt="POM" style="width:150px;">
+ 
+<img src="/enve160b/assets/co2.png" alt="CO2" style="width:150px;">
+</p>
+<p>This lab uses a particle counter &#40;MAGIC&#41;, ozone sensor &#40;POM&#41;, and CO2 sensor. The three sensors are bundled together with their batteries in an open-top tool carrying case. Check the sensor displays frequently to ensure they are recording reasonable data, e.g. not zero. Try to keep the sensors shaded and cool on sunny days; the ozone sensor in particular has been found to stop recording if it overheats. If you have questions about the sensors or your preliminary data, return to lab to ask the instructors.</p>
+<p>The more data you have, the easier it will be to produce an interesting dataset and to ultimately write the report. Spend all or almost all of both class periods sampling. Even if it seems like you are just going back over your tracks, conditions change and so having measured at a location does not mean nothing is gained by measuring there again. Pay attention to wind direction as you determine where you should make downwind and upwind measurements of a source. Talk to the instructors if you would like to bring the sensors somewhere far from campus. You will undoubtedly observe varying concentrations as you walk around. It is important to understand how much of that variability is due to your distance from a source and how much is just natural. Ozone concentrations tend to increase with time in the early afternoon, which means that measurements made close to the beginning of class will likely be lower than those close to the end, even at the same location. Particle concentrations will likely change over the class period, though not in as a predictable way as with ozone. To get a sense of the level of short-term variability and to put observed changes with location into perspective, make measurements from a fixed location for maybe 5 or 10 minutes on each day.</p>
+<h2 id="resources"><a href="#resources" class="header-anchor">Resources</a></h2>
+<p>MAGIC Spec Sheet <a href="https://aerosoldevices.com/wp-content/uploads/2019/08/MAGIC-Brochure.pdf">&#40;link&#41;</a></p>
+<p>MAGIC Operating Manual <a href="https://drive.google.com/file/d/1IFhgHghZkas__KqcxWsA0fCAwDZ64Dtg/view?usp&#61;sharing">&#40;link&#41;</a></p>
+<p>POM Operating Manual <a href="https://drive.google.com/file/d/14Geh32gM_p1DhSeenHjuqi-WjUf-W0_h/view?usp&#61;sharing">&#40;link&#41;</a></p>
+<p>NWS Riverside Station <a href="https://forecast.weather.gov/MapClick.php?lat&#61;33.9813&amp;lon&#61;-117.3188&amp;unit&#61;0&amp;lg&#61;english&amp;FcstType&#61;graphical">&#40;link&#41;</a></p>
+<p>CARB Ozone Data <a href="https://www.arb.ca.gov/aqmis2/aqdselect.php?tab&#61;daily">&#40;link&#41;</a></p>
+<p>Folium Package <a href="https://python-visualization.github.io/folium/latest/index.html">&#40;link&#41;</a></p>
+<div class="page-foot">
+    <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a> Markus Petters</a>.
+</div>
+</div><!-- CONTENT ENDS HERE -->
+    </div> <!-- end of class main-content -->
+    </div> <!-- end of class main-content-wrap -->
+    </div> <!-- end of class page-wrap-->
+    
+    
+  </body>
+</html>
