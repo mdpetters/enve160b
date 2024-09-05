@@ -12,10 +12,11 @@
   </script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel="stylesheet" href="/enve160b/libs/katex/katex.min.css">
+     
   
-  
-  <link rel="stylesheet" href="/css/jtd.css">
-<link rel="icon" href="/assets/favicon.png">
+  <link rel="stylesheet" href="/enve160b/css/jtd.css">
+<link rel="icon" href="/enve160b/assets/favicon.png">
 
 <style>
   /* #148 wrap long header */
@@ -34,7 +35,7 @@
   <!-- SIDE BAR -->
   <div class="side-bar">
     <div class="header">
-      <a href="/" class="title">
+      <a href="/enve160b/" class="title">
         ENVE-160B
       </a>
     </div>
@@ -42,9 +43,13 @@
     <input type="checkbox" id="show-menu" role="button">
     <div class="menu" id="side-menu">
       <ul class="menu-list">
-        <li class="menu-list-item "><a href="/" class="menu-list-link ">Syllabus</a>
-        <li class="menu-list-item "><a href="/labreport/" class="menu-list-link ">Lab Reports</a>
-        <li class="menu-list-item active"><a href="/session1/" class="menu-list-link ">Sunphotometer</a>
+        <li class="menu-list-item "><a href="/enve160b/" class="menu-list-link ">Syllabus</a>
+        <li class="menu-list-item "><a href="/enve160b/labreport/" class="menu-list-link ">Reports</a>
+        <li class="menu-list-item "><a href="/enve160b/presentations/" class="menu-list-link ">Presentations</a>
+        <li class="menu-list-item "><a href="/enve160b/evaluation/" class="menu-list-link ">Peer Evaluation</a>
+        <li class="menu-list-item active"><a href="/enve160b/session1/" class="menu-list-link ">1. Sunphotometer</a>
+        <li class="menu-list-item "><a href="/enve160b/session2/" class="menu-list-link ">2. Exposure</a>
+        <li class="menu-list-item "><a href="/enve160b/carbonyl/" class="menu-list-link ">3. Carbonyls</a>
       </ul>
     </div>
     <div class="footer">
@@ -63,34 +68,51 @@
 <!-- Content appended here (in class franklin-content) -->
 <div class="franklin-content"><h1 id="sunphotometer_lab"><a href="#sunphotometer_lab" class="header-anchor">Sunphotometer Lab</a></h1>
 <div class="learning"><div class="title"><strong>⏻ Learning Objectives</strong></div>
-<div class="content"><p><em>At the end of this lecture you will have learned will be</em></p>
+<div class="content"><p><em>At the end of this lab you will be</em></p>
 <ul>
-<li><p>able to measure optical depth using a handheld sun photometer</p>
-</li>
-<li><p>explain the principle of operation of the optical depth measurements</p>
-</li>
-<li><p>compare optical depth measurements against those taken by global networks  </p>
-</li>
 <li><p>familiar basic definitions, length scales, concentrations scales, sources and types of aerosol</p>
 </li>
-<li><p>explain the main impacts of aerosols on society including visibility, human health, climate, geoengineering, biogeochemical cycling, and deposition/acidification</p>
+<li><p>able to explain the main impacts of aerosols on society including visibility, human health, climate, geoengineering, biogeochemical cycling, and deposition/acidification</p>
+</li>
+<li><p>able to measure optical depth using a handheld sun photometer</p>
+</li>
+<li><p>able to explain the principle of operation of the optical depth measurements</p>
+</li>
+<li><p>able to compare optical depth measurements against those taken by global networks</p>
 </li>
 </ul></div></div>
-<h2 id="overview"><a href="#overview" class="header-anchor">Overview</a></h2>
-<p>Satellites are a powerful tool for providing global coverage of the abundance of particulates &#40;aka aerosol&#41; and several key gases. Though a range of active &#40;satellite emits and detects visible or other radiation&#41; and passive &#40;satellite detects reflected solar radiation or radiation emitted by the earth/atmosphere&#41; techniques are used, most provide a measure of the total abundance of the constituent of interest &#40;e.g., ozone or particulates&#41; through a path between the earth’s surface and the top of the atmosphere. For some applications, such a columnar abundance measurement is directly usable. But that’s not the case for understanding air quality down at the surface where we breathe. Despite numerous efforts to link what a satellite can observe with surface concentrations, there is &#40;and always will be&#41; considerable uncertainty. Even so, satellites offer the only source of information for most of the world, where dense monitoring networks like we have in Southern California don’t exist. Technological advances are also leading to increasingly powerful and accurate satellites and data products. An example is the recently launched TEMPO satellite, which provides spatially and temporally resolved concentrations of NO2 and other pollutants.</p>
-<p>For this lab you will use handheld sensors to measure the particulate matter concentration &#40;what we need for understanding air quality and health impacts&#41; and the columnar loading of particulate matter between the ground and top of the atmosphere &#40;similar to what a satellite could provide&#41;. Though it may not be necessary to make measurements at various locations as with Laboratory A, you should make measurements throughout much or all of your two lab periods to capture &#40;and later explain&#41; variations in each measurement individually and in the relationship between the two. </p>
-<p>The device used to measure concentration is the same AirBeam sensor used for Laboratory C. If you do this lab before that one, at least one group member will need to install the AirBeam app on their phone&#40;s&#41; to record and transmit the data. Though these sensors are nice because they are cheap and small, they are not as accurate as regulatory monitors such as those maintained by SCAQMD/CARB. </p>
-<p>The sensor used to remotely measure columnar “abundance” of particulate matter is called a sunphotometer. It is manually pointed at the sun and measures solar intensity at a set of discrete wavelength bands. The measurements are used to calculate what is referred to as the aerosol optical depth, or AOD, which describes the fractional attenuation of solar radiation as it travels through the atmosphere. For an overhead sun &#40;so no slant&#41;, the fraction transmitted &#61; exp&#40;- AOD&#41;. The measurement is only possible when you &#40;and the sunphotometer&#41; can see the sun. So it is OK if there are clouds, but not OK if they are blocking the sun. Make sure to align the times of the two measurements. When analyzing the data, you may want to connect your data with those from a network of automated sunphotometers &#40;Aeronet&#41; and/or satellite data. Your instructor/TA can help you find and use those or other datasets.</p>
+<div class="exercise"><div class="title"><strong>⌨ Prompt</strong></div>
+<div class="content">You will use the Airbeam3 particulate matter &#40;PM&#41; sensor and the MICROTOPS II sunphotometer to measure the particulate matter concentration and the columnar loading of particulate matter between the ground and top of the atmosphere. You should make measurements throughout much or all of your two lab periods to capture variations in each measurement individually and in the relationship between the two. The lab report should explain the covariation between PM and AOT and compare AOT to AERONET or satellite data.</div></div>
+
+<img src="/enve160b/assets/sunphotometer.png" alt="sunphotometer" style="width:150px;">
+<img src="/enve160b/assets/airbeam3.png" alt="sunphotometer" style="width:300px;">
+
+<p>The sunphotometer remotely measures columnar “abundance” of particulate matter. It is manually pointed at the sun and measures solar intensity at a set of discrete wavelength bands. The measurements are used to calculate what is referred to as the aerosol optical depth &#40;AOD&#41; or aerosol optical thickness &#40;AOT&#41;, which describes the fractional attenuation of solar radiation as it travels through the atmosphere. For an overhead sun, the fraction transmitted is <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>t</mi><mo>=</mo><mi>exp</mi><mo>⁡</mo><mo stretchy="false">(</mo><mo>−</mo><mi>τ</mi><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">t = \exp(-\tau)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6151em;"></span><span class="mord mathnormal">t</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mop">exp</span><span class="mopen">(</span><span class="mord">−</span><span class="mord mathnormal" style="margin-right:0.1132em;">τ</span><span class="mclose">)</span></span></span></span>, where <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>τ</mi></mrow><annotation encoding="application/x-tex">\tau</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.1132em;">τ</span></span></span></span> is the optical thickness. The measurement is only possible when the sunphotometer can see the sun. It is OK if there are clouds, but not OK if they are blocking the sun. Make sure to align the times of the two measurements.</p>
+<p>The Airbeam3 sensor detects the amount of light scattered as single particles pass through a laser. In general, larger particles scatter more light than smaller ones. These sensors are sensitive enough to detect particles larger than approximately 0.3 μm. The low-resolution size distribution measured by the sensor is related to an approximate mass concentration using a built-in algorithm. The detector at the heart of these sensors is the same as that in the widely used PurpleAir sensor. </p>
+<h2 id="motivation"><a href="#motivation" class="header-anchor">Motivation</a></h2>
+<p>Satellites are a powerful tool for providing global coverage of the abundance of particulates and several key gases. Though a range of active and passive techniques are used, most provide a measure of the total abundance of the constituent of interest, e.g., ozone or particulates, through a path between the earth’s surface and the top of the atmosphere. For some applications, such a columnar abundance measurement is directly usable. But that’s not the case for understanding air quality down at the surface where we breathe. Despite numerous efforts to link what a satellite can observe with surface concentrations, there is considerable uncertainty. Even so, satellites offer the only source of information for most of the world, where dense monitoring networks like we have in Southern California don’t exist. Technological advances are also leading to increasingly powerful and accurate satellites and data products. An example is the recently launched TEMPO satellite, which provides spatially and temporally resolved concentrations of NO2 and other pollutants.</p>
 <h2 id="resources"><a href="#resources" class="header-anchor">Resources</a></h2>
-<p>MICROTOPS sunphotometer manual <a href="https://drive.google.com/file/d/1wllTUjzr8n3TkXgJvoigolQnyT5fdK8U/view?usp&#61;sharing">&#40;link&#41;</a></p>
+<h3 id="manuals"><a href="#manuals" class="header-anchor">Manuals</a></h3>
+<p>MICROTOPS II sunphotometer manual <a href="https://drive.google.com/file/d/1wllTUjzr8n3TkXgJvoigolQnyT5fdK8U/view?usp&#61;sharing">&#40;link&#41;</a></p>
+<p>Airbeam3 manual <a href="https://www.habitatmap.org/airbeam/users-guide">&#40;link&#41;</a></p>
+<h3 id="auxiliary_data"><a href="#auxiliary_data" class="header-anchor">Auxiliary Data</a></h3>
 <p>Aerosol Robotic Network &#40;AERONET&#41; Homepage <a href="https://aeronet.gsfc.nasa.gov/">&#40;link&#41;</a></p>
+<p>Aerosol Measurement from Space <a href="https://earth.gsfc.nasa.gov/climate/data/deep-blue/science">&#40;link&#41;</a></p>
+<p>Satellite AOD Data <a href="https://neo.gsfc.nasa.gov/view.php?datasetId&#61;MODAL2_M_AER_OD">&#40;link&#41;</a></p>
+<h3 id="manuscripts"><a href="#manuscripts" class="header-anchor">Manuscripts</a></h3>
 <p>A national crowdsourced network of low-cost fine particulate matter and aerosol optical depth monitors <a href="https://pubs.rsc.org/en/content/articlelanding/2023/ea/d3ea00086a">&#40;link&#41;</a></p>
 <p>Benefits of High Resolution PM2.5 Prediction using Satellite MAIAC AOD and Land Use Regression for Exposure Assessment <a href="https://pubs.acs.org/doi/10.1021/acs.est.9b03799">&#40;link&#41;</a></p>
+<h3 id="lecture_materials"><a href="#lecture_materials" class="header-anchor">Lecture Materials</a></h3>
 <p>Animation of length scales <a href="https://learn.genetics.utah.edu/content/cells/scale/">&#40;link&#41;</a></p>
 <p><strong>Introductory Lecture on aerosols</strong></p>
 
-<iframe width="870" height="480" src="https://www.youtube.com/embed/WAjPHHAjlwg" title="AP Aerosol Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br> <br>
+<iframe width="426" height="240" src="https://www.youtube.com/embed/WAjPHHAjlwg" title="AP Aerosol Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br> <br>
 
+<h2 id="tips_and_tricks"><a href="#tips_and_tricks" class="header-anchor">Tips and Tricks</a></h2>
+<p>At least for some students, the time included in the downloaded AirBeam data is in a format that Excel or Sheets can’t recognize. An example is 2023-10-02T13:20:02.000.</p>
+<p>To adjust the format so that Excel can recognize it and allow you to include it in a graph, you should use the find and replace feature &#40;there is probably a counterpart in Sheets, but I am unfamiliar with it&#41;. Simply type CTRL-f and then click on the “Replace” tab. </p>
+<p>For the format shown above, you should first remove the .000 at the end by typing .001 next to “Find what” and nothing next to “Replace with”. Click Replace All. </p>
+<p>Next, add “T” next to “Find what” and a space next to “Replace with”. Again click Replace All.</p>
 <div class="page-foot">
     <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a> Markus Petters</a>.
 </div>
@@ -98,6 +120,11 @@
     </div> <!-- end of class main-content -->
     </div> <!-- end of class main-content-wrap -->
     </div> <!-- end of class page-wrap-->
+    
+      
+
+
+
     
     
   </body>

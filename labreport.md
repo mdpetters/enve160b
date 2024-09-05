@@ -1,7 +1,9 @@
 # Laboratory Reports
 
-Your report should contain the following sections:
+Your report should contain the following sections.
 \concept{
+TITLE PAGE
+
 **Abstract** 
 1. Introduction 
 2. Methods 
@@ -22,14 +24,13 @@ Your report should contain the following sections:
 - If you include figures or from other sources they must be clearly identified as such.
 - References should be formatted consistently author-year style. It is recommended to use a reference manager to store and typeset the references, e.g. [Zotero](https://www.zotero.org/). References must be in alphabetical order (each author's surname first, with all authors listed). Your exact format may vary based on selected citation style but must be self-consistent.
 
-Windeler, R. S., Friedlander, S. K., Lehtinen, K. E. J (1997). Production of nanometer-sized metal oxide particles by gas phase reaction in a free jet. 1. Experimental system and results. Aerosol Sci. Technol. 27:174-190.
-
-Fuchs, N. A. (1964). The Mechanics of Aerosols. Pergamon Press, Oxford, p. 28.
 
 ## Sections
 
 \note{
-Your report must be in narrative form and not just consist of figures and bullet points.
+Your report must be in narrative form and not just consist of figures and bullet points. Spelling, grammar, and general writing style will be considered when grading the reports. A professional style guide is highly recommended to assist you with writing, e.g:
+
+Strunk and White, *The Elements of Style*, 4th edition, Peasrson.
 }
 
 **Abstract** (200 words). The abstract is typically written last. The abstract should briefly state the purpose of your study, principal results and major conclusions. Avoid references. Avoid non-standard or uncommon abbreviations. If any are essential to include, ensure they are defined within your abstract at first mention.

@@ -6,12 +6,23 @@ ENVE-160B: Environmental Engineering Laboratory
 #### Academic Department 
 Chemical and Environmental Engineering
 
-#### Course Instructor
+#### Course Instructors
 Markus Petters, Department of Chemical and Environmental Engineering \\
 Office: Center for Environmental Research & Technology of UCR | Room 128 \\
 Web: [https://mdpetters.github.io](https://mdpetters.github.io) \\
 Email: [markus.petters@ucr.edu](mailto:markus.petters@ucr.edu) \\
 Office Hours: F 4:00-4:50 PM  
+
+*Lab Director*\\
+Kathy Cocker, Department of Chemical and Environmental Engineering \\
+Email: [kathalena.cocker@ucr.edu](mailto:kathalena.cocker@ucr.edu)
+
+*Teaching Assistants*\\
+First, Last \\
+Email: [@ucr.edu](mailto:)
+
+First, Last \\
+Email: [@ucr.edu](mailto:)
 
 #### Course Description
 Consists of laboratory exercises in environmental engineering. Includes experiments in physical measurements, reaction kinetics, reactor analysis, and air pollution engineering. Emphasizes experimental design, analysis of results, and preparation of engineering reports.
@@ -20,7 +31,7 @@ Prerequisite(s): ENVE 133; or consent of instructor.
 
 
 #### Meeting Time/Location
-Lecture: Tu/Th 12:30 PM - 3:20 PM \\
+Lecture: M/W 12:30 PM - 3:20 PM \\
 Location:  Riverside Campus | Bourns  Hall | Room B134 \\
 Discussion: F 3:00 PM - 3:50 PM \\
 Location: Riverside Campus | Skye Hall | Room 173 
@@ -36,13 +47,12 @@ This course introduces students to concepts essential for making and analyzing m
 3. Gain familiarity with reporting methods of environmental data
 4. Be able to put measurements into perspective based on results available in the literature
 5. Work in complex team environment to accomplish significant tasks
-6. Use real-world analytical techniques to evaluate gasoline reactivity and assess carbonyl exposure
-7. Employ statistical techniques in interpretation of collected data
-8. Gain experience presenting results in group setting and in participating in an active discussion aimed at encouraging the different groups to integrate and interpret their results. 
+6. Employ statistical techniques in interpretation of collected data
+7. Gain experience presenting results in group setting and in participating in an active discussion aimed at encouraging the different groups to integrate and interpret their results. 
 }
 
 #### Assessment
-Assessment of learning objectives will be through assignments and exams. 
+Assessment of learning objectives will be through participation, presentations, and laboratory reports. 
 
 
 #### Evaluation of Student Performance
@@ -52,11 +62,11 @@ The grade components in the class include:
 | Activity      | Weight | Details                                                        |
 | --------------|--------|----------------------------------------------------------------|
 | Laboratory Reports     | 50%    | Five (5) laboratory reports.                          |
-| Presentations          | 30%    | Two group presentations.                              |
+| Presentations          | 30%    | Two (2) group presentations.                          |
 | Participation          | 20%    | Attendance and participation.                         |
 
 **Laboratory Reports**
-Each group will turn in a report for each of the five labs that summarizes the experimental design and results. The grade assigned to each student will be based on a combination of an assessment of the overall report (70%) and of the individual contribution to the lab and report (30%). Spelling, grammar, and general writing style will be considered when grading the reports. Reports will be due on Sundays at 11:59 pm at the end of the weeks specified in the schedule below. You can choose which report to submit each week; you do not need to submit reports in the same order in which you did the labs. The electronic submissions must be formatted into single documents and in a way that they could simply be printed out (e.g., not a combination of a Word and an Excel file). Reports must be submitted through Canvas by 11:59 p.m. 
+Each group will turn in a report for each of the five labs that summarizes the experimental design and results. The grade assigned to each student will be based on a rubric that includes quality of the data and report and will be weighted based on individual contribution to the lab and report. Spelling, grammar, and general writing style will be considered when grading the reports. Reports will be due on Fridays at 11:59 pm at the end of the weeks specified in the schedule below. You can choose which report to submit each week; you do not need to submit reports in the same order in which you did the labs. The electronic submissions must be formatted into single documents, preferably a google doc shared with write access. Reports must be submitted by each group member through Canvas. 
 
 **Presentations**
 Each student will be required to contribute to group presentations on results from two of the five labs. Each group will get to decide which two labs to present. An objective of these is to help students place their results into context by comparing and contrasting with those from the other groups. I will consider responses to questions from me and other students in the class when grading. I will randomly call on three students not presenting to ask questions after each talk. Lack of preparation or absence will be considered when assigning grades. The presentations will be given both during the discussion classes and in class at the end of the quarter.
@@ -65,7 +75,7 @@ Each student will be required to contribute to group presentations on results fr
 I will schedule meetings with each group during weeks for which you are not fully occupied with a lab. We will use this time to discuss your expectations and hypotheses for upcoming labs and your findings and analysis for completed labs. Your participation in the meetings and in other discussions in lab will be counted as 20% of your course grade. Groups cannot start a lab until all members are either present or have sent me an email explaining that they will be unable to attend lab that day.
 
 **Late Homework**
-Late homework will receive no credit. An extension may be granted if the student can document extenuating circumstances related to an extensive period of excused absence between the date that the homework assigned and the homework due date. In addition, *religious observances* or other *unanticipated life events* may interfere with class attendance and homework submission. These *may* qualify for an extension, provided sufficient documentation is presented.
+Late submissions will receive no credit. An extension with partial credit *may* be granted if the student can document extenuating circumstances related to an extensive period of excused absence between the date that the homework assigned and the due date. In addition, *religious observances* or other *unanticipated life events* may interfere with class attendance and homework submission. These *may* qualify for an extension, provided sufficient documentation is presented. 
 
 **Definition of Letter Grades**
 
@@ -105,33 +115,13 @@ Consistent class attendance is the number one predictor of academic success. The
 
 Written verification from a from physician, lawyer, judge, or commanding officer needs to be provided for any makeup exam.
 
-#### Methods of Student Instruction 
-- Slides: Slide deck presentation are used to deliver content
-- Lecture Notes: Handwritten lecture notes are used to deliver key derivations
-- Poll Everywhere: In-class polling questions for formative assessments 
-- GitHub Classroom: GitHub Classroom is used for homework projects 
-- Pluto Notebooks: Pluto notebooks are used as reference text and demonstration of implementation of algorithms in computer language
-- Discussion Sessions: Discussion sessions are used for one-on-one instruction 
-
-#### Term Project
-You are tasked to design a field campaign to validate aerosol emissions at urban scale. You can pick the location (metropolitan area), emission type (e.g. mobile vs. stationary), aerosol type (black carbon vs. secondary organic aerosol vs. inorganic sources). The main objective is to design a measurement campaign that is (1) feasible, (2) affordable, and (3) compelling. Feasible means that it is logistically possible to conduct the measurements. Examples of feasibility include site access, instrument availability, and personnel availability. Affordable means that you are limited in the number of high quality instruments you can deploy. An example of "non-affordable" would be a campaign that requires a fleet of specialized aircraft. Compelling means that the data will provide meaningful constraints on the emissions given the limitations of your sensors and the geographical area. Examples of "not compelling" would be insufficient sensitivity of the selected sensor(s), insufficient temporal or spatial coverage, or interference by factors outside of your control, including meteorological factors. 
-    
-Evaluation will focus on the following aspects
-- Problem statement (description of the emission problem)
-- Feasibility analysis (is the project feasible)
-- Budget analysis (is the project affordable)
-- Engineering objectives analysis (is the project compelling)
-
-**Milestones**
-- April 9: Identification of title and 3-5 sentence abstract on envisioned scope
-- April 23: Problem statement and list of papers to be considered.
-- April 30: Campaign overview figure and outline of the proposed campaign
-- May 7: Feasibility and budget analysis
-- May 21: Engineering objective analysis
-- June 6: Presentation of project and final draft of term paper  
+#### Methods of Student Instruction
+- Laboratory Session: Hands on work to collect measurements and interact with the instructors. Used for developing measurement plans and working out hypotheses. 
+- Report Writing: Students submit reports and obtain timely feedback to help improve future reports.
+- Discussion Sessions: Discussion sessions are used for group presentations.  
 
 #### Readings and Recommended Texts
-Reading material is provided in the form of online notebooks. Additional reading may be assigned on an ad-hoc basis.
+Reading material is linked to each lab session.
 
 #### Academic Accommodations
 Students are encouraged to take an active role as their own advocates. They are not required to identify themselves as having a disability; however, students are not eligible for accommodations unless they self-identify. Students are responsible for visiting the SDRC office (Student Disability Resource Center, 125 Costo Hall (951) 827-4538, [http://sdrc.ucr.edu/](http://sdrc.ucr.edu/), and obtaining and delivering letters detailing appropriate accommodations to each of their instructors in a timely manner every quarter. 
