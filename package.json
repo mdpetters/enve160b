@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "highlight.js": "^11.10.0",
+    "minify": "^11.4.0"
+  }
+}

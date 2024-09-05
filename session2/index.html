@@ -14,8 +14,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   
-  <link rel="stylesheet" href="/css/jtd.css">
-<link rel="icon" href="/assets/favicon.png">
+  <link rel="stylesheet" href="/enve160b/css/jtd.css">
+<link rel="icon" href="/enve160b/assets/favicon.png">
 
 <style>
   /* #148 wrap long header */
@@ -27,14 +27,14 @@
   }
 </style>
 
-   <title>Aerosol Size Distribution</title>  
+   <title>PM Exposure Lab</title>  
 </head>
 <body>                      <!-- closed in foot.html -->
 <div class="page-wrap">   <!-- closed in foot.html -->
   <!-- SIDE BAR -->
   <div class="side-bar">
     <div class="header">
-      <a href="/" class="title">
+      <a href="/enve160b/" class="title">
         ENVE-160B
       </a>
     </div>
@@ -42,8 +42,13 @@
     <input type="checkbox" id="show-menu" role="button">
     <div class="menu" id="side-menu">
       <ul class="menu-list">
-        <li class="menu-list-item "><a href="/" class="menu-list-link ">Syllabus</a>
-        <li class="menu-list-item "><a href="/session1/" class="menu-list-link ">Introduction</a>
+        <li class="menu-list-item "><a href="/enve160b/" class="menu-list-link ">Syllabus</a>
+        <li class="menu-list-item "><a href="/enve160b/labreport/" class="menu-list-link ">Reports</a>
+        <li class="menu-list-item "><a href="/enve160b/presentations/" class="menu-list-link ">Presentations</a>
+        <li class="menu-list-item "><a href="/enve160b/evaluation/" class="menu-list-link ">Peer Evaluation</a>
+        <li class="menu-list-item "><a href="/enve160b/session1/" class="menu-list-link ">1. Sunphotometer</a>
+        <li class="menu-list-item active"><a href="/enve160b/session2/" class="menu-list-link ">2. Exposure</a>
+        <li class="menu-list-item "><a href="/enve160b/carbonyl/" class="menu-list-link ">3. Carbonyls</a>
       </ul>
     </div>
     <div class="footer">
@@ -60,34 +65,45 @@
 
 
 <!-- Content appended here (in class franklin-content) -->
-<div class="franklin-content"><h1 id="aerosol_size_distribution"><a href="#aerosol_size_distribution" class="header-anchor">Aerosol Size Distribution</a></h1>
-<p>The purpose of this lecture is to introduce the mathematical description of the aerosol size distribution as well as measurement methods thereof.</p>
+<div class="franklin-content"><h1 id="pm_exposure_lab"><a href="#pm_exposure_lab" class="header-anchor">PM Exposure Lab</a></h1>
 <div class="learning"><div class="title"><strong>⏻ Learning Objectives</strong></div>
-<div class="content"><p><em>At the end of this lecture, participants will be able to</em></p>
+<div class="content"><p><em>At the end of this lab you will be</em></p>
 <ul>
-<li><p>interpret aerosol size distributions graphed in various domains </p>
+<li><p>familiar with regional air quality sensor networks</p>
 </li>
-<li><p>apply the lognormal aerosol size distribution function to represent aerosol size distributions</p>
+<li><p>able to estimate particulate matter exposure </p>
 </li>
-<li><p>explain the basic principle of operation for mobility-based and optical-based measurements</p>
+<li><p>able to explain sources of personal exposure to particulate matter </p>
 </li>
-<li><p>categorize the atmospheric size distribution into modes </p>
-</li>
-<li><p>know particle sources and processes associated with each mode</p>
-</li>
-<li><p>numerically analyze lognormal size distributions</p>
+<li><p>able to contextualize data within regional particulate matter measurements</p>
 </li>
 </ul></div></div>
-<h2 id="slides_and_lecture_notes"><a href="#slides_and_lecture_notes" class="header-anchor">Slides and Lecture Notes</a></h2>
+<div class="exercise"><div class="title"><strong>⌨ Prompt</strong></div>
+<div class="content">The goal is to measure the particle concentration in the air you are breathing. Most or all group members will carry portable AirBeam3 particle sensors with them for a full week starting at class time on Monday. When at home or somewhere else for an extended period, the sensor can be positioned on a flat surface. You should obviously not put the sensor in a backpack or other enclosure. In your report you should estimate the personal exposure and to compare the average concentration around you during the week with that measured at a fixed site using data either from comparable low-cost sensor networks or nearby regulatory monitors from SCAQMD/CARB.</div></div>
 
-Slide Deck <a href="https://docs.google.com/presentation/d/17y7T163nqIGeAFZDbBIo4pL4hLMYcyf2tjVWJWxF3sY/edit?usp=sharing">: link </a> <br> <br>
+<img src="/enve160b/assets/airbeam3.png" alt="airbeam" style="width:300px;">
 
-
-Lecture Notebook <a href="https://mdpetters.github.io/cee233/notebooks/particle_size_statistics/"> Aerosol Size Distribution </a> <br> <br>
-
-<h2 id="homework"><a href="#homework" class="header-anchor">Homework</a></h2>
-<div class="exercise"><div class="title"><strong>⌨ Assignment</strong></div>
-<div class="content">Due April 18: Lecture notebook including synthesis assignment.</div></div>
+<p>The Airbeam3 sensor detects the amount of light scattered as single particles pass through a laser. In general, larger particles scatter more light than smaller ones. These sensors are sensitive enough to detect particles larger than approximately 0.3 μm. The low-resolution size distribution measured by the sensor is related to an approximate mass concentration using a built-in algorithm. The detector at the heart of these sensors is the same as that in the widely used PurpleAir sensor. </p>
+<h2 id="motivation"><a href="#motivation" class="header-anchor">Motivation</a></h2>
+<p>Connecting air pollutant concentrations to health impacts is complicated by variability in the actual exposure of individuals in an area or a study. What is typically used in an epidemiological study is the average outdoor pollutant concentration measured at a fixed monitoring site and the health outcomes of the people that live nearby. Differences in time spent in different indoor environments, the workplace, and in traffic, as well as variability in outdoor concentrations where individuals work and otherwise spend their time are all important, but not readily known. One approach used to assess average exposure is to have representative groups of people carry lightweight portable or wearable sensors over periods of several days.</p>
+<h2 id="resources"><a href="#resources" class="header-anchor">Resources</a></h2>
+<h3 id="manuals"><a href="#manuals" class="header-anchor">Manuals</a></h3>
+<p>Airbeam3 manual <a href="https://www.habitatmap.org/airbeam/users-guide">&#40;link&#41;</a></p>
+<h3 id="auxiliary_data"><a href="#auxiliary_data" class="header-anchor">Auxiliary Data</a></h3>
+<p>Regional wind data <a href="https://www.windy.com/?33.842,-117.697,8">&#40;link&#41;</a></p>
+<p>Historical meteorological data <a href="https://mesowest.utah.edu/cgi-bin/droman/mesomap.cgi?lat&#61;34.14444&amp;lon&#61;-117.85000&amp;radius&#61;25&amp;rawsflag&#61;290&amp;site&#61;CQ073&amp;unit&#61;0&amp;time&#61;LOCAL&amp;product&#61;&amp;year1&#61;2020&amp;month1&#61;8&amp;day1&#61;06&amp;hour1&#61;10&amp;currTimeChecked&#61;">&#40;link&#41;</a></p>
+<p>Purple air map <a href="https://map.purpleair.com/1/mAQI/a10/p604800/cC0#9.01/33.912/-117.4613">&#40;link&#41;</a></p>
+<p>CARB data 1 <a href="https://www.arb.ca.gov/aqmis2/aqdselect.php?tab&#61;daily">&#40;link&#41;</a></p>
+<p>CARB data 2 <a href="https://aqview.arb.ca.gov/continuous-monitoring-data">&#40;link&#41;</a></p>
+<p>CARB emissions data <a href="https://ww2.arb.ca.gov/applications/emissions-air-basin">&#40;link&#41;</a></p>
+<p>CARB pollution map <a href="https://ww3.arb.ca.gov/carbapps/pollution-map/">&#40;link&#41;</a></p>
+<p>SCAQMD community data <a href="http://www.aqmd.gov/nav/about/initiatives/environmental-justice/ab617-134/ab-617-community-air-monitoring/communities">&#40;link&#41;</a></p>
+<p>MATES map <a href="https://ww2.arb.ca.gov/applications/emissions-air-basin">&#40;link&#41;</a></p>
+<h2 id="tips_and_tricks"><a href="#tips_and_tricks" class="header-anchor">Tips and Tricks</a></h2>
+<p>At least for some students, the time included in the downloaded AirBeam data is in a format that Excel or Sheets can’t recognize. An example is 2023-10-02T13:20:02.000.</p>
+<p>To adjust the format so that Excel can recognize it and allow you to include it in a graph, you should use the find and replace feature &#40;there is probably a counterpart in Sheets, but I am unfamiliar with it&#41;. Simply type CTRL-f and then click on the “Replace” tab. </p>
+<p>For the format shown above, you should first remove the .000 at the end by typing .001 next to “Find what” and nothing next to “Replace with”. Click Replace All. </p>
+<p>Next, add “T” next to “Find what” and a space next to “Replace with”. Again click Replace All.</p>
 <div class="page-foot">
     <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a> Markus Petters</a>.
 </div>
