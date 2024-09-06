@@ -1,4 +1,4 @@
-# Particle Number and Ozone Lab 
+# Particle Number and Ozone  
 
 \learning{
 *At the end of this lab you will be*
@@ -17,13 +17,13 @@ The objective is to explore spatial and temporal variability of particle number 
 }
 
 ~~~
-<img src="/assets/magic.png" alt="MAGIC" style="width:250px;">
+<img src="/assets/magic.png" alt="MAGIC" style="width:230px;">
 ~~~
 ~~~
 <img src="/assets/pom.png" alt="POM" style="width:150px;">
 ~~~
 ~~~
-<img src="/assets/co2.png" alt="CO2" style="width:150px;">
+<img src="/assets/co2.png" alt="CO2" style="width:120px;">
 ~~~
 
 

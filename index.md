@@ -69,10 +69,12 @@ The grade components in the class include:
 Each group will turn in a report for each of the five labs that summarizes the experimental design and results. The grade assigned to each student will be based on a rubric that includes quality of the data and report and will be weighted based on individual contribution to the lab and report. Spelling, grammar, and general writing style will be considered when grading the reports. Reports will be due on Fridays at 11:59 pm at the end of the weeks specified in the schedule below. You can choose which report to submit each week; you do not need to submit reports in the same order in which you did the labs. The electronic submissions must be formatted into single documents, preferably a google doc shared with write access. Reports must be submitted by each group member through Canvas. 
 
 **Presentations**
-Each student will be required to contribute to group presentations on results from two of the five labs. Each group will get to decide which two labs to present. An objective of these is to help students place their results into context by comparing and contrasting with those from the other groups. I will consider responses to questions from me and other students in the class when grading. I will randomly call on three students not presenting to ask questions after each talk. Lack of preparation or absence will be considered when assigning grades. The presentations will be given both during the discussion classes and in class at the end of the quarter.
+Each student will be required to contribute to group presentations on results from two of the five labs. Present any two labs of your choice. One objective is to help students place their results into context by comparing and contrasting with those from other groups.
+
 
 **Participation**
-I will schedule meetings with each group during weeks for which you are not fully occupied with a lab. We will use this time to discuss your expectations and hypotheses for upcoming labs and your findings and analysis for completed labs. Your participation in the meetings and in other discussions in lab will be counted as 20% of your course grade. Groups cannot start a lab until all members are either present or have sent me an email explaining that they will be unable to attend lab that day.
+Attendance in lab sessions and discussion is mandatory. Lab sessions marked as as make-up/group work are available for meetings of the groups with the instructor to discuss expectations and hypotheses for upcoming labs and findings and analysis for completed labs. Participation in the meetings and in other discussions in lab contributes  20% of your course grade. The participation score will be computed based on recorded attendance, participation in discussion, and peer-evaluations of group work. 
+
 
 **Late Homework**
 Late submissions will receive no credit. An extension with partial credit *may* be granted if the student can document extenuating circumstances related to an extensive period of excused absence between the date that the homework assigned and the due date. In addition, *religious observances* or other *unanticipated life events* may interfere with class attendance and homework submission. These *may* qualify for an extension, provided sufficient documentation is presented. 
@@ -159,6 +161,7 @@ Students may be required to disclose personally identifiable information to othe
 
 *Digital Course Components:* Digital course components include 
 - Canvas Learning Management System
+- Poll Everywhere
 
 #### Non-Discrimination Policy
 It is the policy of the University of California Riverside not to engage in discrimination against or harassment of any person employed or seeking employment with the University of California on the basis of race, color, national origin, religion, sex, gender, gender expression, gender identity, pregnancy, physical or mental disability, medical condition, genetic information, ancestry, marital status, age, sexual orientation, citizenship, or service in the uniformed services. Furthermore, University policy prohibits retaliation against any member of the University community filing a complaint of discrimination or harassment. This policy is intended to be consistent with the provisions of applicable State and Federal laws and University policies. 

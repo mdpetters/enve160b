@@ -1,4 +1,4 @@
-# Carbonyl Lab
+# Indoor Carbonyls
 
 \learning{
 *At the end of this lab you will be*
@@ -22,7 +22,7 @@ You will be provided two DNPH cartridges in sealed pouches. Air is forced to flo
 <img src="/assets/hplc.jpg" alt="airbeam" style="width:200px;">
 ~~~
 ~~~
-<iframe width="426" height="240" src="https://www.youtube.com/embed/eCj0cRtJvJg" title="HPLC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br> <br>
+<iframe width="370" height="208" src="https://www.youtube.com/embed/eCj0cRtJvJg" title="HPLC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br> <br>
 ~~~
 
 During lab on Wednesday, the instructors will assist you in eluting the carbonyls that are trapped on the cartridges using acetonitrile and then injecting the resulting solution into a high performance liquid chromatograph (HPLC) with UV/Vis detector. Discuss the methods and instrumentation with the instructors so that appropriate detail can be provided in your laboratory report, including the mobile and stationary phase, the mode of HPLC operation, and the mode of detection, and the appropriate instrument calibrations. Pay close attention to the instruction you are provided for using measurements of standards to relate the retention times (x-axis of the chromatogram) and intensities (y-axis) to the types and abundances of the set of carbonyl compounds present. You should report on both the relationship between indoor and outdoor concentrations and the health concerns associated with the concentrations of those detected at both locations.
@@ -30,7 +30,7 @@ During lab on Wednesday, the instructors will assist you in eluting the carbonyl
 ## Motivation
 
 ~~~
-<iframe width="426" height="240" src="https://www.youtube.com/embed/nqRPRwO79kg" title="HPLC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br> <br>
+<iframe width="370" height="208" src="https://www.youtube.com/embed/nqRPRwO79kg" title="HPLC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br> <br>
 ~~~
 
 There is significant debate in the health and exposure community about the relative importance of indoor and outdoor air quality. While we most often think about emissions sources that directly impact outdoor air such as vehicle exhaust, industrial facilities, and wildfires, most of us spend much more time indoors than outdoors. Indoor air quality is influenced both by infiltration of outdoor air and by numerous indoor activities such as cooking and vacuuming, and numerous indoor emissions sources such as carpet, particle board, paint, cleaning products, and air fresheners. The relative importance of outdoor and indoor sources is impacted by individual preference and behavior (e.g., leaving windows open) and by increasingly common and effective energy savings measures incorporated in houses and buildings that reduce indoor/outdoor exchange of air. Carbonyls are one particular class of compounds that has garnered significant interest for indoor air quality. Several carbonyl compounds are known to pose significant health concerns when present at sufficiently high concentrations.

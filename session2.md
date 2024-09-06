@@ -1,4 +1,4 @@
-# PM Exposure Lab
+# Particulate Matter Exposure 
 
 \learning{
 *At the end of this lab you will be*

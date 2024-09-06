@@ -5,17 +5,17 @@ Students will be graded as a group, rather than individually to simulate team en
 ## Helpful Hints
 
 ~~~
-<iframe width="426" height="240" src="https://www.youtube.com/embed/Hp7Id3Yb9XQ
+<iframe width="370" height="208" src="https://www.youtube.com/embed/Hp7Id3Yb9XQ
 " title="AP Aerosol Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br> <br>
 ~~~
 
 
 ~~~
-<iframe width="426" height="240" src="https://www.youtube.com/embed/vagJObbPpXI" title="AP Aerosol Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br> <br>
+<iframe width="370" height="208" src="https://www.youtube.com/embed/vagJObbPpXI" title="AP Aerosol Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br> <br>
 ~~~
 
 ## Rubric
 ~~~
-<iframe src="https://docs.google.com/forms/d/19JY4EEEGw1dJQ--SkN-USWTAXldSJFgH_XrQDv4hq4Q/viewform?embedded=true" width="800" height="1300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/19JY4EEEGw1dJQ--SkN-USWTAXldSJFgH_XrQDv4hq4Q/viewform?embedded=true" width="600" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 ~~~
 

@@ -1,4 +1,4 @@
-# Sunphotometer Lab
+# Aerosol Optical Depth
 
 \learning{
 *At the end of this lab you will be*
@@ -52,7 +52,7 @@ Animation of length scales [(link)](https://learn.genetics.utah.edu/content/cell
 **Introductory Lecture on aerosols**
 
 ~~~
-<iframe width="426" height="240" src="https://www.youtube.com/embed/WAjPHHAjlwg" title="AP Aerosol Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br> <br>
+<iframe width="370" height="208" src="https://www.youtube.com/embed/WAjPHHAjlwg" title="AP Aerosol Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br> <br>
 ~~~
 
 ## Tips and Tricks
