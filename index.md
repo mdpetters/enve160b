@@ -183,3 +183,15 @@ It is the policy of the University of California Riverside not to engage in disc
 | Nov 25 | Make-up/group work | Nov 27 | Make-up/group work | Nov 29  | *Thanksgiving break*     |           |
 | Dec 2  | Make-up/group work | Dec 4  | Make-up/group work | Dec 6   | Presentations Groups 4,5 | Report #5 |
 
+
+#### Group Schedule
+
+You will rotate through Labs 1 through 5 according to the schedule below. Please see Canvas for your group assignments.
+
+| Group    | Nov 30  | Oct 7  | Oct 14 | Oct 21  | Oct 28 |
+|----------|---------|--------|--------|---------|--------|
+| Group 1  | Lab 1   | Lab 2  | Lab 3  | Lab 4   | Lab 5  |
+| Group 2  | Lab 5   | Lab 1  | Lab 2  | Lab 3   | Lab 4  |
+| Group 3  | Lab 4   | Lab 5  | Lab 1  | Lab 2   | Lab 3  |
+| Group 4  | Lab 3   | Lab 4  | Lab 5  | Lab 1   | Lab 2  |
+| Group 5  | Lab 2   | Lab 3  | Lab 4  | Lab 5   | Lab 1  |
