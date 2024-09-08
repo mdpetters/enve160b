@@ -11,8 +11,8 @@ Write the name of each of your group members in a separate column. For each pers
 | Attended group meetings regularly and arrives on time.| |  | |  |
 | Contributed meaningfully to group discussions. | | | | | 
 | Completed group assignments on time. | | | | | 
-| Prepares work in a quality manner. |  | | 
-| Contributes significantly to the success of the project. | | | | 
+| Prepared work in a quality manner. |  | | 
+| Contributed significantly to the success of the project. | | | | 
 | Total | | | |
 1. How effectively did your group work?
 2. Were the behaviors of any of your team members particularly valuable or 	detrimental to the team? Explain.

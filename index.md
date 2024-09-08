@@ -47,9 +47,52 @@ This course introduces students to concepts essential for making and analyzing m
 3. Gain familiarity with reporting methods of environmental data
 4. Be able to put measurements into perspective based on results available in the literature
 5. Work in complex team environment to accomplish significant tasks
-6. Employ statistical techniques in interpretation of collected data
+6. Employ mathematical and computational techniques in interpretation of collected data
 7. Gain experience presenting results in group setting and in participating in an active discussion aimed at encouraging the different groups to integrate and interpret their results. 
 }
+
+
+**ABET Student Outcomes**
+
+The Accreditation Board for Engineering and Technology (ABET) articulates critical student outcomes that support the program educational objectives. Attainment of these outcomes prepares graduates to enter the professional practice of engineering. The table below summarizes how this course meets various ABET targets.
+
+|        | ABET Criteria    |   This Course                |
+|--------|------------------|------------------------------|
+| 1. | An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics. | Open-ended prompts and requirement to engage with the peer-reviewed literature force students to identify, formulate and solve complex engineering problems in the context of engineering science and mathematics.   |
+| 2. | An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors. | Students design and carry out experiments that target public health and environmental welfare. |  
+| 3. | An ability to communicate effectively with a range of audiences. | Students learn to communicate findings via oral and written reports that meet current professional standards. Students learn to participate in active discussions with peers and an audience. |
+| 4. | An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives. | Students learn to effectively collaborate in a team, be accountable as both individuals and as a group for produced results. |    
+| 5. | An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions. | Students learn how to conduct hand-on experiments through multiple labs. They analyze and interpret the data and are required to draw conclusions from the data in presentations and reports. |
+| 6. | An ability to acquire and apply new knowledge as needed, using appropriate learning strategies. | Students are provided lab manuals, auxiliary data websites, and peer-reviewed manuscripts as a guide. They are required to acquire and apply this knowledge using their own learning strategies. |
+
+#### Course Schedule
+
+| M      | Activity           | W      | Activity           | F       | Activity                 | Report Due|
+|--------|--------------------|--------|--------------------|---------|--------------------------|-----------|
+|        |                    | Sep 26 |                    | Sep 27  | Syllabus                 |           |
+| Nov 30 | Lab 1              | Oct 2  | Lab 1              | Oct 4   |                          |           |
+| Oct 7  | Lab 2              | Oct 9  | Lab 2              | Oct 11  |                          |           |
+| Oct 14 | Lab 3              | Oct 16 | Lab 3              | Oct 18  |                          | Report #1 | 
+| Oct 21 | Lab 4              | Oct 23 | Lab 4              | Oct 25  | Presentations Groups 1,2 |           |
+| Oct 28 | Lab 5              | Oct 30 | Lab 5              | Nov 1   |                          | Report #2 |
+| Nov 4  | Make-up/group work | Nov 6  | Make-up/group work | Nov 8   | Presentations Groups 3,4 |           | 
+| Nov 11 | *Veterans Day*     | Nov 13 | Make-up/group work | Nov 15  | Presentations Groups 1,5 | Report #3 |
+| Nov 18 | Make-up/group work | Nov 20 | Make-up/group work | Nov 22  | Presentations Groups 2,3 | Report #4 |
+| Nov 25 | Make-up/group work | Nov 27 | Make-up/group work | Nov 29  | *Thanksgiving break*     |           |
+| Dec 2  | Make-up/group work | Dec 4  | Make-up/group work | Dec 6   | Presentations Groups 4,5 | Report #5 |
+
+
+#### Group Schedule
+
+You will rotate through Labs 1 through 5 according to the schedule below. Please see Canvas for your group assignments.
+
+| Group    | Nov 30  | Oct 7  | Oct 14 | Oct 21  | Oct 28 |
+|----------|---------|--------|--------|---------|--------|
+| Group 1  | Lab 1   | Lab 2  | Lab 3  | Lab 4   | Lab 5  |
+| Group 2  | Lab 5   | Lab 1  | Lab 2  | Lab 3   | Lab 4  |
+| Group 3  | Lab 4   | Lab 5  | Lab 1  | Lab 2   | Lab 3  |
+| Group 4  | Lab 3   | Lab 4  | Lab 5  | Lab 1   | Lab 2  |
+| Group 5  | Lab 2   | Lab 3  | Lab 4  | Lab 5   | Lab 1  |
 
 #### Assessment
 Assessment of learning objectives will be through participation, presentations, and laboratory reports. 
@@ -66,15 +109,13 @@ The grade components in the class include:
 | Participation          | 20%    | Attendance and participation.                         |
 
 **Laboratory Reports**
-Each group will turn in a report for each of the five labs that summarizes the experimental design and results. The grade assigned to each student will be based on a rubric that includes quality of the data and report and will be weighted based on individual contribution to the lab and report. Spelling, grammar, and general writing style will be considered when grading the reports. Reports will be due on Fridays at 11:59 pm at the end of the weeks specified in the schedule below. You can choose which report to submit each week; you do not need to submit reports in the same order in which you did the labs. The electronic submissions must be formatted into single documents, preferably a google doc shared with write access. Reports must be submitted by each group member through Canvas. 
+Each group will turn in a report for each of the five labs that summarizes the experimental design and results. The grade assigned to each student will be based on a rubric that includes quality of the data and report and will be weighted based on individual contribution to the lab and report. 
 
 **Presentations**
 Each student will be required to contribute to group presentations on results from two of the five labs. Present any two labs of your choice. One objective is to help students place their results into context by comparing and contrasting with those from other groups.
 
-
 **Participation**
 Attendance in lab sessions and discussion is mandatory. Lab sessions marked as as make-up/group work are available for meetings of the groups with the instructor to discuss expectations and hypotheses for upcoming labs and findings and analysis for completed labs. Participation in the meetings and in other discussions in lab contributes  20% of your course grade. The participation score will be computed based on recorded attendance, participation in discussion, and peer-evaluations of group work. 
-
 
 **Late Homework**
 Late submissions will receive no credit. An extension with partial credit *may* be granted if the student can document extenuating circumstances related to an extensive period of excused absence between the date that the homework assigned and the due date. In addition, *religious observances* or other *unanticipated life events* may interfere with class attendance and homework submission. These *may* qualify for an extension, provided sufficient documentation is presented. 
@@ -166,32 +207,39 @@ Students may be required to disclose personally identifiable information to othe
 #### Non-Discrimination Policy
 It is the policy of the University of California Riverside not to engage in discrimination against or harassment of any person employed or seeking employment with the University of California on the basis of race, color, national origin, religion, sex, gender, gender expression, gender identity, pregnancy, physical or mental disability, medical condition, genetic information, ancestry, marital status, age, sexual orientation, citizenship, or service in the uniformed services. Furthermore, University policy prohibits retaliation against any member of the University community filing a complaint of discrimination or harassment. This policy is intended to be consistent with the provisions of applicable State and Federal laws and University policies. 
 
+#### Mental Health
+As a student, you may experience a range of issues that can cause barriers to learning, such as strained relationships, alcohol/drug problems, anxiety, depression, difficulty concentrating and lack of motivation. These mental health concerns or stressful events may lead to diminished academic performance or reduce a student's ability to participate in daily activities – UCR has resources to help! If you or a friend are in distress or experiencing any of these issues, please contact 951-UCR-TALK 24-hours a day to speak to a mental health professional, or call the National Suicide Prevention Lifeline at 1-800-273-TALK. Please refer to [https://mentalhealth.ucr.edu](https://mentalhealth.ucr.edu) for additional resources.
 
-#### Course Schedule
+#### Basic Needs
+If you or someone you know are in need of economic, food or housing support, you can find help at
+[https://basicneeds.ucr.edu](https://basicneeds.ucr.edu). You may be eligible for money to buy groceries via [https://basicneeds.ucr.edu/calfresh](https://basicneeds.ucr.edu/calfresh). If you are in need of immediate assistance, see the Student Affairs Case Manager at [https://casemanagement.ucr.edu/](https://casemanagement.ucr.edu/) or visit the R'Pantry at [https://basicneeds.ucr.edu/rpantry](https://basicneeds.ucr.edu/rpantry). You can find more information by clicking the Student Success Resources tab on your iLearn course menu.
 
-| M      | Activity           | W      | Activity           | F       | Activity                 | Report Due|
-|--------|--------------------|--------|--------------------|---------|--------------------------|-----------|
-|        |                    | Sep 26 |                    | Sep 27  | Syllabus                 |           |
-| Nov 30 | Lab 1              | Oct 2  | Lab 1              | Oct 4   |                          |           |
-| Oct 7  | Lab 2              | Oct 9  | Lab 2              | Oct 11  |                          |           |
-| Oct 14 | Lab 3              | Oct 16 | Lab 3              | Oct 18  |                          | Report #1 | 
-| Oct 21 | Lab 4              | Oct 23 | Lab 4              | Oct 25  | Presentations Groups 1,2 |           |
-| Oct 28 | Lab 5              | Oct 30 | Lab 5              | Nov 1   |                          | Report #2 |
-| Nov 4  | Make-up/group work | Nov 6  | Make-up/group work | Nov 8   | Presentations Groups 3,4 |           | 
-| Nov 11 | *Veterans Day*     | Nov 13 | Make-up/group work | Nov 15  | Presentations Groups 1,5 | Report #3 |
-| Nov 18 | Make-up/group work | Nov 20 | Make-up/group work | Nov 22  | Presentations Groups 2,3 | Report #4 |
-| Nov 25 | Make-up/group work | Nov 27 | Make-up/group work | Nov 29  | *Thanksgiving break*     |           |
-| Dec 2  | Make-up/group work | Dec 4  | Make-up/group work | Dec 6   | Presentations Groups 4,5 | Report #5 |
+#### Self Care
+ Categories of self care include biobehavioral (e.g., get plenty of sleep), affective-cognitive (e.g., watching a favorite, comforting movie), relational (e.g., talking with a friend), and spiritual (e.g., connecting with a faith community or the natural environment). In addition to the following resources, your instructor and TA are available to provide support and referrals.
 
+**University resources that may help you include:**
+- Counseling Center: (951) 827-5531 | [link](http://counseling.ucr.edu/Pages/default.aspx)
+- Wellness Center: [link](http://well.ucr.edu/Pages/default.aspx)
+- Campus Health Center: (951) 827-3031 | [link](http://campushealth.ucr.edu/Pages/default.aspx)
+- Student Special Services (for students with disabilities and veterans): [link](http://specialservices.ucr.edu/Pages/default.aspx)
+- Ethnic and gender program offices: [link](http://www.ucr.edu/students/ethnic_gender.html)
+- Healing Highlanders Collegiate Recovery Program: [link](http://healinghighlanders.weebly.com)
+- Campus Safety Escort Service: (951) 827-3772
+- UCR Ombudsperson: (951) 827-3213,
+- UCR Sexual Assault Resource Services: (951) 827-6225
+- UCR Student Conduct: (951) 827-4208
+- UCR Student Affairs Case Manager: (951) 827-9354
+- UCR Title IX/Sexual Harassment Office: (951) 827-5670
+- Office of the Ombuds: (951) 827-3213
+- Campus advocate for campus members affected by interpersonal violence:\\
+Naddia Palacios | naddia.palacios@ucr.edu \\
+384 and 386 Surge Building | (951) 827-6225 | [link](http://advocacy.ucr.edu/services.html)
 
-#### Group Schedule
-
-You will rotate through Labs 1 through 5 according to the schedule below. Please see Canvas for your group assignments.
-
-| Group    | Nov 30  | Oct 7  | Oct 14 | Oct 21  | Oct 28 |
-|----------|---------|--------|--------|---------|--------|
-| Group 1  | Lab 1   | Lab 2  | Lab 3  | Lab 4   | Lab 5  |
-| Group 2  | Lab 5   | Lab 1  | Lab 2  | Lab 3   | Lab 4  |
-| Group 3  | Lab 4   | Lab 5  | Lab 1  | Lab 2   | Lab 3  |
-| Group 4  | Lab 3   | Lab 4  | Lab 5  | Lab 1   | Lab 2  |
-| Group 5  | Lab 2   | Lab 3  | Lab 4  | Lab 5   | Lab 1  |
+**Off-campus resources include:**
+- Alternatives to Domestic Violence: (800) 339-7233
+- Riverside Area Rape Crisis Center (24/7): (951) 686-7273)
+- Riverside County Regional Medical Center: (951) 486-5650
+- National Sexual Assault Hotline: (951) 656-4673
+- National Dating Abuse Hotline: (866) 331-9474
+- National Domestic Violence Hotline: (800) 799-7233
+- Family Justice Center: (951) 955-6100

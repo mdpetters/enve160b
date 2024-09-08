@@ -1,6 +1,7 @@
 # Laboratory Reports
 
-Your report should contain the following sections.
+Reports will be due on Fridays at 11:59 pm at the end of the weeks specified in course schedule. You can choose which report to submit each week; you do not need to submit reports in the same order in which you did the labs  The electronic submissions must be formatted into single documents, preferably a google doc shared with write access. Spelling, grammar, and general writing style will be considered when grading the reports. Reports must be submitted by each group member through Canvas. Your report should contain the following sections.
+
 \concept{
 TITLE PAGE
 
@@ -33,7 +34,7 @@ Your report must be in narrative form and not just consist of figures and bullet
 Strunk and White, *The Elements of Style*, 4th edition, Peasrson.
 }
 
-**Abstract** (200 words). The abstract is typically written last. The abstract should briefly state the purpose of your study, principal results and major conclusions. Avoid references. Avoid non-standard or uncommon abbreviations. If any are essential to include, ensure they are defined within your abstract at first mention.
+**Abstract** (200 words). The abstract should briefly state the purpose of your study, principal results and major conclusions. Avoid references. Avoid non-standard or uncommon abbreviations. If any are essential to include, ensure they are defined within your abstract at first mention.
 
 **Introduction** (500-1000 words). 
 Provide an adequate background and motivation to your work. Avoid writing a detailed literature overview or summary of your results. The introduction should end with a clear statement of the objectives of your work. 
