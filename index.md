@@ -190,8 +190,8 @@ Cheating is the giving, taking, or presenting of information or material by a st
 5. Working with another or others in completing an assignment, examination, or other academic exercise when the faculty member has required independent and unaided action.
 6. Attempting to influence or change an academic evaluation, grade, or record by unfair means.
 7. Permitting another individual to substitute for one’s self in an academic evaluation.
-8. Marking or submitting an examination or evaluation material in a manner designed to deceive the grading system,
-9. Failing to comply with a specific condition of academic integrity which has been clearly announced in a particular course,
+8. Marking or submitting an examination or evaluation material in a manner designed to deceive the grading system.
+9. Failing to comply with a specific condition of academic integrity which has been clearly announced in a particular course.
 10. Submitting, without prior permission of the faculty member, any work by a student which has at any time been submitted in identical or similar form by that student in fulfillment of any other academic requirement at any institution.
 11. Submitting of material in whole or part for academic evaluation that has been prepared by another individual(s).
 12. Submitting data which have been altered or contrived in such a way as to be deliberately misleading. 
