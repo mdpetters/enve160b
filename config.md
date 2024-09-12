@@ -1,5 +1,5 @@
 +++
-author = "Markus Petters"
+author = "Don Collins, David Cocker, and Markus Petters"
 maxtoclevel = 2
 mintoclevel = 2
 
