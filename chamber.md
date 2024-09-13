@@ -16,19 +16,18 @@ The goal is to measure the reactions of alkenes with ozone inside an environment
 }
 
 ~~~
-<img src="/assets/pom.png" alt="POM" style="width:125px;">
+<img src="/assets/ozone.jpg" alt="POM" style="width:200px;">
 ~~~
 
 ~~~
-<img src="/assets/nox.png" alt="airbeam" style="width:250px;">
+<img src="/assets/nox.png" alt="airbeam" style="width:200px;">
 ~~~
 
-This lab uses an environmental chamber, an ozone sensor and a chemiluminescence analyzer. The instrument determines the concentration of nitric oxide ($NO$), total nitrogen oxides ($NO_x$) , the sum of
-$NO$ and $NO_2$) and nitrogen dioxide ($NO_2$) in a sample stream. The principle of operation is [chemiluminescence](https://en.wikipedia.org/wiki/Chemiluminescence). Chemiluminescence is the emission of light from a chemical reaction and is triggered by the reaction of $NO$ with ozone $O_3$. The amount of light produced is linear with $NO$ concentration. $NO_2$ is measured by converting $NO_2$ with to $NO$ using heated molybdenum converter chip. 
+This lab uses an environmental chamber, a photometric UV absorption $O_3$ analyzer and a chemiluminescence $NO_x$ analyzer. To measure $O_3$, a 254 nm UV light signal is passed through the sample cell where it is absorbed in proportion to the amount of ozone present. Periodically, a switching valve alternates measurement between the sample stream and a sample that has been scrubbed of ozone. The $NO_x$ instrument determines the concentration of nitric oxide ($NO$), total nitrogen oxides ($NO_x$) , the sum of $NO$ and $NO_2$) and nitrogen dioxide ($NO_2$) in a sample stream. The principle of operation is [chemiluminescence](https://en.wikipedia.org/wiki/Chemiluminescence). Chemiluminescence is the emission of light from a chemical reaction and is triggered by the reaction of $NO$ with ozone $O_3$. The amount of light produced is linear with $NO$ concentration. $NO_2$ is measured by converting $NO_2$ with to $NO$ using heated molybdenum converter chip. 
 
 ## Background/Motivation
 
-Alkenes are ubiquitous atmospheric VOCs that originate from both biogenic and anthropogenic sources. The double bond reacts quickly with $O_3$ and is one of the major degradation pathways of alkenes. The ozone alkene reaction starts with the $O_3$ addition to the double bond resulting in a primary ozonide. The primary ozonide decomposes into an aldehyde and a stabilized Crigee intermediate (SCI) biradical. The SCI then reacts with either (a) an adehyde, (b) an alcohol, (d) carbon monoxide,  (e) sulfur dioxide, (f) water vapor, (g) $NO$ or $NO_2$, or (h) with itself. Some of these compounds are will then go on and contribute to PM2.5. Furthermore hydroxyl radicals are formed from the reaction at high yield. The alkene + $O_3$ reaction is therefore important for understanding the degradation and fate of alkenes in the atmosphere, for understanding the OH budget in the atmosphere, and for understanding PM2.5 formation from VOCs in the atmosphere. 
+Alkenes are ubiquitous atmospheric VOCs that originate from both biogenic and anthropogenic sources. The double bond reacts quickly with $O_3$ and is one of the major degradation pathways of alkenes. The ozone alkene reaction starts with the $O_3$ addition to the double bond resulting in a primary ozonide. The primary ozonide decomposes into an aldehyde and a stabilized Crigee intermediate (SCI) biradical. The SCI then reacts with either (a) an adehyde, (b) an alcohol, (d) carbon monoxide,  (e) sulfur dioxide, (f) water vapor, (g) $NO$ or $NO_2$, or (h) with itself. Some of these compounds will then go on and contribute to PM2.5. Furthermore hydroxyl radicals are formed from the reaction at high yield. The alkene + $O_3$ reaction is therefore important for understanding the degradation and fate of alkenes in the atmosphere, for understanding the OH budget in the atmosphere, and for understanding PM2.5 formation from VOCs in the atmosphere. 
 
 ![](/assets/alkene.png)
 
@@ -41,8 +40,12 @@ Before the experiment, you will receive reagents from your TA, including a glass
 
 ## Resources
 
+O3 Analyzer Manual [(link)](https://www.teledyne-api.com/prod/Downloads/T400%20MANUAL,%20USER,%20NVS,%20T400%20083730400B.pdf)
+
 NOx Analyzer Manual [(link)](https://www.teledyne-api.com/prod/Downloads/083730200C%20-%20MANUAL,%20USER%20NVS,%20T200-T200U.pdf)
 
 Gas-Phase Tropospheric Chemistry of Volatile Organic Compounds: 1. Alkanes and Alkenes [(link)](https://pubs.aip.org/aip/jpr/article/26/2/215/241782/Gas-Phase-Tropospheric-Chemistry-of-Volatile)
+
+Atmospheric Degradation of Volatile Organic Compounds [(link)](https://pubs.acs.org/doi/epdf/10.1021/cr0206420?ref=article_openPDF)
 
 Kinetic and mechanism studies of the ozonolysis of three unsaturated ketones [(link)](https://www.sciencedirect.com/science/article/pii/S1001074220301121)

@@ -67,7 +67,7 @@ The Accreditation Board for Engineering and Technology (ABET) articulates critic
 | M      | Activity           | W      | Activity           | F       | Activity                 | Report Due|
 |--------|--------------------|--------|--------------------|---------|--------------------------|-----------|
 |        |                    | Sep 26 |                    | Sep 27  | Syllabus                 |           |
-| Nov 30 | Lab 1              | Oct 2  | Lab 1              | Oct 4   | Air Quality Refresher    |           |
+| Sep 30 | Lab 1              | Oct 2  | Lab 1              | Oct 4   | Air Quality Refresher    |           |
 | Oct 7  | Lab 2              | Oct 9  | Lab 2              | Oct 11  |                          |           |
 | Oct 14 | Lab 3              | Oct 16 | Lab 3              | Oct 18  |                          | Report #1 | 
 | Oct 21 | Lab 4              | Oct 23 | Lab 4              | Oct 25  | Presentations Groups 1,2 |           |
@@ -83,7 +83,7 @@ The Accreditation Board for Engineering and Technology (ABET) articulates critic
 
 You will rotate through Labs 1 through 5 according to the schedule below. Please see Canvas for your group assignments.
 
-| Group    | Nov 30  | Oct 7  | Oct 14 | Oct 21  | Oct 28 |
+| Group    | Sep 30  | Oct 7  | Oct 14 | Oct 21  | Oct 28 |
 |----------|---------|--------|--------|---------|--------|
 | Group 1  | Lab 1   | Lab 2  | Lab 3  | Lab 4   | Lab 5  |
 | Group 2  | Lab 5   | Lab 1  | Lab 2  | Lab 3   | Lab 4  |

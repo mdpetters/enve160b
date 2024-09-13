@@ -44,3 +44,5 @@ NWS Riverside Station [(link)](https://forecast.weather.gov/MapClick.php?lat=33.
 CARB Ozone Data [(link)](https://www.arb.ca.gov/aqmis2/aqdselect.php?tab=daily)
 
 Folium Package [(link)](https://python-visualization.github.io/folium/latest/index.html)
+
+Map Visualization with Folium [(link)](https://medium.com/datasciencearth/map-visualization-with-folium-d1403771717)
