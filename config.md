@@ -19,11 +19,12 @@ website_url   = "https://mdpetters.github.io/enve160b/"
 \newcommand{\R}{\mathbb R}
 \newcommand{\scal}[1]{\langle #1 \rangle}
 \newcommand{\concept}[1]{@@concept @@title **✎ Laboratory Report**@@ @@content #1 @@ @@}
-\newcommand{\outline}[1]{@@outline @@title **✎ Lecture Outline**@@ @@content #1 @@ @@}
+\newcommand{\outline}[1]{@@outline @@title **✎ Prerequisite**@@ @@content #1 @@ @@}
 \newcommand{\note}[1]{@@note @@title **✎ Note**@@ @@content #1 @@ @@}
 \newcommand{\learning}[1]{@@learning @@title **⏻ Learning Objectives**@@ @@content #1 @@ @@}
 \newcommand{\outcomes}[1]{@@learning @@title **⏻ Learning Outcomes**@@ @@content #1 @@ @@}
 \newcommand{\caution}[1]{@@warning @@title **⚠ Misconduct**@@ @@content #1 @@ @@}
+\newcommand{\cauton}[1]{@@warning @@title **⚠ Caution**@@ @@content #1 @@ @@}
 \newcommand{\prompt}[1]{@@exercise @@title **⌨ Prompt**@@ @@content #1 @@ @@}
 
 @def prepath = "enve160b"
