@@ -66,17 +66,17 @@ The Accreditation Board for Engineering and Technology (ABET) articulates critic
 
 | M      | Activity           | W      | Activity           | F       | Activity                 | Report Due|
 |--------|--------------------|--------|--------------------|---------|--------------------------|-----------|
-|        |                    | Sep 26 |                    | Sep 27  | Syllabus                 |           |
-| Sep 30 | Lab 1              | Oct 2  | Lab 1              | Oct 4   | Air Quality Refresher    |           |
-| Oct 7  | Lab 2              | Oct 9  | Lab 2              | Oct 11  |                          |           |
-| Oct 14 | Lab 3              | Oct 16 | Lab 3              | Oct 18  |                          | Report #1 | 
-| Oct 21 | Lab 4              | Oct 23 | Lab 4              | Oct 25  | Presentations Groups 1,2 |           |
-| Oct 28 | Lab 5              | Oct 30 | Lab 5              | Nov 1   |                          | Report #2 |
-| Nov 4  | Make-up/group work | Nov 6  | Make-up/group work | Nov 8   | Presentations Groups 3,4 |           | 
-| Nov 11 | *Veterans Day*     | Nov 13 | Make-up/group work | Nov 15  | Presentations Groups 1,5 | Report #3 |
-| Nov 18 | Make-up/group work | Nov 20 | Make-up/group work | Nov 22  | Presentations Groups 2,3 | Report #4 |
+|        |                    | Sep 26 |                    | Sep 27  | *no meeting*             |           |
+| Sep 30 | Syllabus/Safety    | Oct 2  | Air Quality Refresher   | Oct 4   | *no meeting*        |           |
+| Oct 7  | Lab 1              | Oct 9  | Lab 1              | Oct 11  | group work               |           |
+| Oct 14 | Lab 2              | Oct 16 | Lab 2              | Oct 18  | group work               | Report #1 | 
+| Oct 21 | Lab 3              | Oct 23 | Lab 3              | Oct 25  | group work               |           |
+| Oct 28 | Lab 4              | Oct 30 | Lab 4              | Nov 1   | group work               | Report #2 |
+| Nov 4  | Lab 5              | Nov 6  | Lab 5              | Nov 8   | group work               |           | 
+| Nov 11 | *Veterans Day*     | Nov 13 | Presentations Week 2  | Nov 15  | group work         | Report #3 |
+| Nov 18 | Make-up/group work | Nov 20 | Make-up/group work | Nov 22  | group work               | Report #4 |
 | Nov 25 | Make-up/group work | Nov 27 | Make-up/group work | Nov 29  | *Thanksgiving break*     |           |
-| Dec 2  | Make-up/group work | Dec 4  | Make-up/group work | Dec 6   | Presentations Groups 4,5 | Report #5 |
+| Dec 2  | Make-up/group work | Dec 4  | Presentations Week 5 | Dec 6   | *no meeting*             | Report #5 |
 
 
 #### Group Schedule
@@ -109,7 +109,7 @@ The grade components in the class include:
 Each group will turn in a report for each of the five labs that summarizes the experimental design and results. The grade assigned to each student will be based on a rubric that includes quality of the data and report and will be weighted based on individual contribution to the lab and report. 
 
 **Presentations**
-Each student will be required to contribute to group presentations on results from two of the five labs. Present any two labs of your choice. One objective is to help students place their results into context by comparing and contrasting with those from other groups.
+Each student will be required to contribute to group presentations on results from two of the five labs. One objective is to help students place their results into context by comparing and contrasting with those from other groups.
 
 **Participation**
 Attendance in lab sessions and discussion is mandatory. Lab sessions marked as as make-up/group work are available for meetings of the groups with the instructor to discuss expectations and hypotheses for upcoming labs and findings and analysis for completed labs. Participation in the meetings and in other discussions in lab contributes  20% of your course grade. The participation score will be computed based on recorded attendance, participation in discussion, and peer-evaluations of group work. 

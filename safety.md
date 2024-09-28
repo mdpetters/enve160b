@@ -13,7 +13,7 @@ The lab is an inherently dangerous environment. While the experiments of the cla
 
 
 \note{
-Students must wear a protective laboratory coat during experimentation. Bring your own lab coat, there will be no available loaners. If you do not have a lab coat, you must obtain your own from the bookstore. 
+Students must wear a protective laboratory coat and safety goggles uring experimentation. Bring your own lab coat and goggles, there will be no available loaners. If you do not have a lab coat or goggles, you must obtain your own from the bookstore. 
 }
 
 Because of their lack of protection, shorts and dresses (even when worn with tights) are not allowed in the laboratory. Legs must be covered to the foot. Pants that have holes in them will not be acceptable. To avoid exposure to hazardous materials, open-backed shirts, bare midriff shirts, or shirts which expose areas of the torso are not permitted. Shoes must cover the entire foot and be completely enclosed; perforated shoes, open-toed shoes, open-backed shoes, or high-heeled shoes are not permitted. 
