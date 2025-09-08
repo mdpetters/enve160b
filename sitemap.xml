@@ -2,32 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>https://mdpetters.github.io/enve160b/evaluation/index.html</loc>
-    <lastmod>2024-09-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
     <loc>https://mdpetters.github.io/enve160b/session2/index.html</loc>
     <lastmod>2024-09-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://mdpetters.github.io/enve160b/safety/index.html</loc>
-    <lastmod>2024-09-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://mdpetters.github.io/enve160b/refresher/index.html</loc>
-    <lastmod>2024-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://mdpetters.github.io/enve160b/magic/index.html</loc>
-    <lastmod>2024-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
@@ -38,8 +14,38 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>https://mdpetters.github.io/enve160b/refresher/index.html</loc>
+    <lastmod>2024-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>https://mdpetters.github.io/enve160b/labreport/index.html</loc>
-    <lastmod>2024-09-08</lastmod>
+    <lastmod>2025-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://mdpetters.github.io/enve160b/index.html</loc>
+    <lastmod>2025-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://mdpetters.github.io/enve160b/safety/index.html</loc>
+    <lastmod>2024-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://mdpetters.github.io/enve160b/magic/index.html</loc>
+    <lastmod>2024-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://mdpetters.github.io/enve160b/presentations/index.html</loc>
+    <lastmod>2024-09-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
@@ -50,19 +56,13 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://mdpetters.github.io/enve160b/index.html</loc>
-    <lastmod>2024-10-12</lastmod>
+    <loc>https://mdpetters.github.io/enve160b/evaluation/index.html</loc>
+    <lastmod>2024-09-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://mdpetters.github.io/enve160b/session1/index.html</loc>
-    <lastmod>2024-09-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://mdpetters.github.io/enve160b/presentations/index.html</loc>
     <lastmod>2024-09-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
