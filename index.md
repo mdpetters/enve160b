@@ -62,19 +62,20 @@ The Accreditation Board for Engineering and Technology (ABET) articulates critic
 
 #### Course Schedule
 
-| M      | Activity             | W      | Activity              | F      | Activity             | Report Due                     |
-|--------|----------------------|--------|-----------------------|--------|----------------------|--------------------------------|
-|        |                      | Sep 23 |                       | Sep 25 | *no meeting*         |                                |
-| Sep 28 | Syllabus/Safety      | Sep 30 | *no meeting*          | Oct 2  | *no meeting*         |                                |
-| Oct 5  | Rotation A Session 1 | Oct 7  | Rotation A Session 1  | Oct 9  | Reporting            |                                |
-| Oct 12 | Rotation B Session 1 | Oct 14 | Rotation B Session 1  | Oct 16 | Reporting            |                                |
-| Oct 19 | Rotation A Session 2 | Oct 21 | Rotation A Session 2  | Oct 23 | Reporting            | Monday: Rotation A Report #1   |
-| Oct 26 | Rotation B Session 2 | Oct 28 | Rotation B Session 2  | Oct 30 | Reporting            | Monday: Rotation B Report #1   |
-| Nov 2  | Make-up              | Nov 4  | Make-up               | Nov 6  | Reporting            |                                |
-| Nov 9  | Rotation A Session 3 | Nov 11 | Rotation A Session 3  | Nov 13 | Reporting            | Monday: Rotation A Report #2   |
-| Nov 16 | Rotation B Session 3 | Nov 18 | Rotation B Session 3  | Nov 20 | Reporting            | Monday: Rotation B Report #2   |
-| Nov 23 | Make-up              | Nov 25 | Make-up               | Nov 27 | *Thanksgiving break* |                                |
-# | Nov 30 | Make-up              | Dec 2  | Make-up               | Dec 4  | *no meeting*         | Monday: Rotation A/B Report #3 |
+| M      | Activity               | W      | Activity               | F      | Activity             | Due                            |
+|--------|------------------------|--------|------------------------|--------|----------------------|--------------------------------|
+|        |                        | Sep 23 |                        | Sep 25 | *no meeting*         |                                |
+| Sep 28 | Syllabus/Safety        | Sep 30 | *no meeting*           | Oct 2  | *no meeting*         |                                |
+| Oct 5  | Pre-lab Reading        | Oct 7  | Pre-lab Reading        | Oct 9  | Reporting            | Safety Training                |
+| Oct 12 | Session 1              | Oct 14 | Session 1              | Oct 16 | Reporting            |                                |
+| Oct 19 | Pre-lab Reading/Report | Oct 21 | Pre-lab Reading/Report | Oct 23 | Reporting            |                                |
+| Oct 26 | Session 2              | Oct 28 | Session 2              | Oct 30 | Reporting            | Report #1 (October 26)         |
+| Nov 2  | Pre-lab Reading/Report | Nov 4  | Pre-lab Reading/Report | Nov 6  | Reporting            |                                |
+| Nov 9  | Session 3              | Nov 11 | Session 3              | Nov 13 | Reporting            | Report #2 (November 9)         |
+| Nov 16 | Make-up/Report         | Nov 18 | Make-up/Report         | Nov 20 | Reporting            |                                |
+| Nov 23 | *Thanksgiving week*    | Nov 25 | *Thanksgiving week*    | Nov 27 | *Thanksgiving week*  |                                |
+| Nov 30 | Make-up/Report         | Dec 2  | Make-up/Report         | Dec 4  | *no meeting*         | Report #3 (November 30)        |
+
 
 
 #### Assessment

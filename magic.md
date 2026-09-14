@@ -10,7 +10,7 @@
 
 ## Required Reading
 
-Introduction to [Combustion Emissions](combustion.pdf).
+Introduction to [Combustion Emissions](assets/combustion.pdf).
 
 ## Background
 
