@@ -1,94 +1,8 @@
 # Laboratory Reports
 
-Reports will be due on Fridays at 11:59 pm at the end of the weeks specified in course schedule. You can choose which report to submit each week; you do not need to submit reports in the same order in which you did the labs  The electronic submissions must be formatted into single documents, preferably a google doc shared with write access. Spelling, grammar, and general writing style will be considered when grading the reports. Reports must be submitted by each group member through Canvas. Your report should contain the following sections.
+## Individual Assignment
 
-\concept{
-TITLE PAGE
-
-**Abstract** 
-1. Introduction 
-2. Methods 
-3. Results 
-4. Discussion 
-5. Conclusion 
-6. References
-7. Appendices
-}
-
-## Formatting Requirements
-- Title page. Format as you wish but must contain the course number, project title, names of group members, and date of submission.
-- One inch margins at top, bottom, left, and right.
-- Left justification, 1.5 lines spacing.
-- Use Times New Roman, 11 point font.
-- Page number at bottom of page.
-- Figures and tables should be placed inline close to the relevant text but positioned after they are first discussed. Figures must be numbers and captioned. The caption should contain only information needed to decode the figure. 
-- If you include figures or from other sources they must be clearly identified as such.
-- References should be formatted consistently author-year style. It is recommended to use a reference manager to store and typeset the references, e.g. [Zotero](https://www.zotero.org/). References must be in alphabetical order (each author's surname first, with all authors listed). Your exact format may vary based on selected citation style but must be self-consistent.
-
-
-## Sections
-
-\note{
-Your report must be in narrative form and not just consist of figures and bullet points. Spelling, grammar, and general writing style will be considered when grading the reports. A professional style guide is highly recommended to assist you with writing, e.g:
-
-Strunk and White, *The Elements of Style*, 4th edition, Peasrson.
-}
-
-**Abstract** (200 words). The abstract should briefly state the purpose of your study, principal results and major conclusions. Avoid references. Avoid non-standard or uncommon abbreviations. If any are essential to include, ensure they are defined within your abstract at first mention.
-
-**Introduction** (500-1000 words). 
-Provide an adequate background and motivation to your work. Avoid writing a detailed literature overview or summary of your results. The introduction should end with a clear statement of the objectives of your work. 
-
-**Methods** (500-1000 words). The methods section should provide sufficient details about your methods to allow your work to be reproduced by an independent researcher. Includes approach taken for data collection and for data analysis.
-
-**Results** (500-1000 words). Report what was measured/observed. Results should be clear and concise and include analyzed data in the form of figures and tables.
-
-**Discussion** (500-1000 words). The discussion section should explore the significance of your results but not repeat them. Interpret results, connect to hypotheses, describe relevance, comment on what should be done differently/additionally.
-
-**Conclusion**. (200 words). The conclusion section should present the main conclusions of your study.
-
-**References**. References should be primarily to the peer-reviewed literature and must be be connected to the text, i.e. the reference must logically connect to the cited context.
-
-**Appendices** Include a table that summarizes approximate contributions to each of the elements of the lab and report writing. These will be used together with the grades assigned to each of the elements of the report as one piece of information when calculating the student-specific part of the overall report score. So, for example, if the overall report receives a score of 44/50, but the introduction received only 5/10, the student(s) responsible for writing it would receive a lower score overall. Another element will be anonymous evaluations that each student will complete after submission of the report.
-
-| Section         | Eladio | Elena | Edward | Erica |
-|-----------------|--------|-------|--------|-------|
-| Data collection | 30%    | 20%   | 25%    | 25%   | 
-| Data analysis   | 10%    | 40%   | 15%    | 35%   | 
-| Abstract        | 100%   |       |        |       | 
-| Introduction    |        | 100%  |        |       | 
-| Methods         |        |       | 50%    | 50%   | 
-| Results         | 50%    | 50%   |        |       | 
-| Discussion      | 30%    | 20%   | 25%    | 25%   | 
-| Conclusion      |        |       | 100%   |       | 
-| References      | 25%    | 30%   | 10%    | 35%   | 
-
-You may include additional appendices for things like tables, graphics, and photos that would take up too much
-space in the report. Any appendices will be considered in the score for the section from which they are
-described.
-
-## Contribution Weighted Rubric 
-
-When grading the reports, I will provide comments about things that could be improved, but I will not attempt to specify how many points were lost as a result of each comment. The section scores are assigned based on an overall assessment about the clarity, accuracy, writing, length, quality of analysis, and adherence to the formatting requirements. I will take more points off with each report for mistakes I commented on in reports of yours I graded and returned. So you should read and understand the comments I provide, both in the sections you contributed to and those you did not.
-
-Results will be weighted by contribution. Therefore, try to divide the report sections within your group such that everyone is responsible for an approximately equal part of the overall score. So, for example, one student could be entirely (= 100% in the table) responsible for writing one of the sections worth 10 points (introduction, methods, results, or discussion/conclusions) in a group of 5 students. Don’t worry if the split is not exact for each report because you can balance it out between the five you will submit during the quarter.
-
-The weighted raw scores will be assigned a letter grade based on mastery-based grading (see syllabus). The mastery-based grading will take into account anonymous evaluations that each student will complete after submission of the report. 
-
-
-| Section         | Eladio | Elena | Edward | Erica |  Total  | Awarded | Eladio | Elena     | Edward    | Erica     |      
-|-----------------|--------|-------|--------|-------|---------|---------|--------|-----------|-----------|-----------|
-| Data collection | 30%    | 20%   | 25%    | 25%   | 5 pt    |  4 pt   | 1.2    | 0.8       | 1         | 1         | 
-| Data analysis   | 10%    | 40%   | 15%    | 35%   | 10 pt   |  9 pt   | 0.9    | 0.36      | 0.135     | 3.15      |
-| Abstract        | 100%   |       |        |       | 5 pt    |  3 pt   | 3      |           |           |           |
-| Introduction    |        | 100%  |        |       | 10 pt   |  8 pt   |        | 8         |           |           |
-| Methods         |        |       | 50%    | 50%   | 10 pt   |  10 pt  |        |           | 5         | 5         |
-| Results         | 50%    | 50%   |        |       | 10 pt   |  9 pt   | 4.5    | 4.5       |           |           |
-| Discussion      | 30%    | 20%   | 25%    | 25%   | 10 pt   |  8 pt   | 2.4    | 1.6       | 2         | 2         |
-| Conclusion      |        |       | 100%   |       | 5 pt    |  4 pt   |        |           | 4         |           |
-| References      | 25%    | 30%   | 10%    | 35%   | 5 pt    |  4 pt   | 1      | 1.2       | 0.4       | 1.4       |
-| **Total**       |        |       |        |       | 70 pt   |  59 pt  | 13/17.5| 16.5/17.5 | 12.5/17.5 | 12.5/17.5 |
-| **Letter Grade**|        |       |        |       |         |         | B      | A         | B         | B         |
+Laboratory reports are **individual** assignments. After you have collected the data with your group, you must work on your own, producing your own analysis, graphs, and text. Copying code, text, or analysis from other group members is expressly forbidden.
 
 ## Plagiarism
 
@@ -99,5 +13,58 @@ Please review the academic integrity section in the syllabus. Two important form
 - Verbatim copying or paraphrasing somebody else’s report, paper, web-based entry, book, or any other source without use of quotation marks and citation (verbatim text) or citation (paraphrasing). 
 }
 
+## Reporting Mechanics
 
+This course will require you to turn in hand-written reports using either pen or pencil. Reports are due on Monday at the beginning of the lab, at the date outlined in they syllabus. Reports will be graded and returned the same week on Wednesday so you can prepare the next report. 
+
+~~~
+<img title="" alt="Lab Notebook" src="/assets/lab_notebook.jpg">
+~~~
+
+The rubric may require either hand-drawn figures or computer-generated figures. Computer-generated figures must be printed and pasted into the notebook. Lab reports will be submitted in the form of an exam blue book. Free blue books can be picked up at the beginning of the course. 
+
+
+## Report Grade
+
+Each report has a specific rubric that outlines the required sections and components of the grade. In general the components are
+
+### 1. Prelab Quiz
+
+You will be given a shorter in-person version of the online prelab quiz. The points will count to your report grade. 
+
+### 2. Attendance
+
+Attendance points. You will receive attendance points for Monday and Wednesday lab sessions. 
+
+### 3. Reading Log
+
+Each lab has a required reading associated with it. Before writing the report, provide a reading log. The reading log should be completed prior to starting the lab and contain the following.
+
+- Figure/Data Interpretation: Select three one figures or tables/reaction from the text. What do you think this figure is showing? (Describe the variables, components, or process you observe.). What patterns, relationships, or trends do you notice?
+- Mechanism: Choose one process, system, or reaction mechanism from the reading and explain how it works in your own words. Focus on cause-and-effect relationships or steps in the process.
+- Mini Research: What result, claim, or observation in the reading surprised you? Find outside sources (scientific article, textbook, or reputable science site) related to this finding. What additional information did you learn?
+- Reflection: Identify at least one concept that was challenging. What part of the reading was unclear? What specific question do you have about it?
+
+### 3. Report
+You will provide a hand-written report that is submitted on Monday at the beginning of the lab session on the date indicated in the syllabus. Detailed guidance is provided for each report. Don't forget to paste a copy of the grading rubric at the end of each report.
+
+
+## Rationale for Reporting Scheme
+
+It may seem anachronistic that I request hand-written reports and that I take a strong stance against using AI. Writing by hand is difficult. I wrote the lab reports by hand and it made my hand hurt. It was significantly slower than writing it in a word processor. Computers and AI are powerful technologies that may appear to make your life easier. However, there is growing evidence that computers and AI may do far more harm than doing good in education. While the following sections focus more on the harms of AI, some of the concerns also apply to just using word processors. 
+
+The main concern with AI in education (and beyond) is that when relying on AI, students will never learn critical skills like original thinking, writing, or coding. Even more concerning, there is emerging evidence that using generative AI causes underperformance at neural, linguistic, and behavioral tasks.$^1$ (Read, reduces your IQ). It is an existential threat to higher education because it facilitates plagiarism deployed at scale. Generative AI is highly addictive because it makes hard things seemingly easy. It provides an escape hatch for deadline pressure and the general feeling being overwhelmed by the difficulty of an assigned task. Yet, a student that is cutting and pasting images and text from manuals or ChatGPT into a word document is enrolled in a class in cutting and pasting class and not a university course. The bitter truth is that learning requires forcing ourselves to do hard things.
+
+The cognitive science research and evidence from observing student behavior seems to be clear. Reducing the cognitive load makes your brain atrophy.$^1$ Conversely, taking handwritten notes, rather than typing, helps committing material to memory leads to higher achievement.$^2$ Students are human beings. Nothing will stop them from using ChatGPT and other shortcuts if they are available.$^3$ For this reason it is time to force ourselves to slow down.
+
+> Writing by hand is thinking on paper.
+
+Writing by hand has some amazing benefits. It requires us to first complete the analysis and organize the material before starting to write. Drafting figures with a pencil, and/or annotating graphs with pencil makes us pause and think about the data. Because handwriting is slower than typing, and less amenable to later reshuffling like we do in a word processor, it requires us to think more clearly about what we write. The assignments are **individual** because I want every student to have the benefit of fully understanding the experiment, analysis and implications. Because the reports are a significant amount of work, I have reduced the number of labs to three, thus freeing time for you to focus on analysis and reporting.
+
+### References
+$^1$Kosmyna et al. (2025). Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task. [https://doi.org/10.48550/arXiv.2506.08872](https://doi.org/10.48550/arXiv.2506.08872). 
+
+$^2$Flanigan, A.E., Wheeler, J., Colliot, T. et al. Typed Versus Handwritten Lecture Notes and College Student Achievement: A Meta-Analysis. Educ Psychol Rev 36, 78 (2024). [https://doi.org/10.1007/s10648-024-09914-w](https://doi.org/10.1007/s10648-024-09914-w).
+
+$^3$Clay Shirky: The Only Real Solution to the A.I. Cheating Crisis. [NY Times](https://www.nytimes.com/2025/08/26/opinion/culture/ai-chatgpt-college-cheating-medieval.html). 
 

@@ -11,15 +11,15 @@ Markus Petters, Department of Chemical and Environmental Engineering \\
 Office: Center for Environmental Research & Technology of UCR | Room 128 \\
 Web: [https://mdpetters.github.io](https://mdpetters.github.io) \\
 Email: [markus.petters@ucr.edu](mailto:markus.petters@ucr.edu) \\
-Office Hours: F 4:00-4:50 PM  
+Office Hours: F 3:00-3:50 PM  
 
 *Lab Director*\\
 Kathy Cocker, Department of Chemical and Environmental Engineering \\
 Email: [ksmihula@engr.ucr.edu](mailto:ksmihula@engr.ucr.edu)
 
-*Teaching Assistants*\\
-Sunandan Mahant \\
-Email: [sunandan.mahant@email.ucr.edu](mailto:sunandan.mahant@email.ucr.edu )
+*Teaching Assistant*\\
+Ankita Malu \\
+Email: [ankita.malu@email.ucr.edu](mailto:ankita.malu@email.ucr.edu)
 
 #### Course Description
 Consists of laboratory exercises in environmental engineering. Includes experiments in physical measurements, reaction kinetics, reactor analysis, and air pollution engineering. Emphasizes experimental design, analysis of results, and preparation of engineering reports.
@@ -31,8 +31,7 @@ Prerequisite(s): ENVE 133; or consent of instructor.
 Lecture: M/W 12:30 PM - 3:20 PM \\
 Location:  Riverside Campus | Bourns  Hall | Room B134 \\
 Discussion: F 3:00 PM - 3:50 PM \\
-Location: Riverside Campus | Skye Hall | Room 173 
-
+Location: Riverside Campus | Skye Hall | Room 172
 
 #### Course Objectives
 
@@ -47,7 +46,6 @@ This course introduces students to concepts essential for making and analyzing m
 6. Employ mathematical and computational techniques in interpretation of collected data
 7. Gain experience presenting results in group setting and in participating in an active discussion aimed at encouraging the different groups to integrate and interpret their results. 
 }
-
 
 **ABET Student Outcomes**
 
@@ -64,58 +62,47 @@ The Accreditation Board for Engineering and Technology (ABET) articulates critic
 
 #### Course Schedule
 
-| M      | Activity           | W      | Activity           | F       | Activity                 | Report Due|
-|--------|--------------------|--------|--------------------|---------|--------------------------|-----------|
-|        |                    | Sep 26 |                    | Sep 27  | *no meeting*             |           |
-| Sep 30 | Syllabus/Safety    | Oct 2  | Air Quality Refresher   | Oct 4   | *no meeting*        |           |
-| Oct 7  | Lab 1              | Oct 9  | Lab 1              | Oct 11  | group work               |           |
-| Oct 14 | Lab 2              | Oct 16 | Lab 2              | Oct 18  | group work               | Report #1 | 
-| Oct 21 | Lab 3              | Oct 23 | Lab 3              | Oct 25  | group work               |           |
-| Oct 28 | Lab 4              | Oct 30 | Lab 4              | Nov 1   | group work               | Report #2 |
-| Nov 4  | Lab 5              | Nov 6  | Lab 5              | Nov 8   | group work               |           | 
-| Nov 11 | *Veterans Day*     | Nov 13 | Presentations Week 2  | Nov 15  | group work         | Report #3 |
-| Nov 18 | Make-up/group work | Nov 20 | Make-up/group work | Nov 22  | group work               | Report #4 |
-| Nov 25 | Make-up/group work | Nov 27 | Make-up/group work | Nov 29  | *Thanksgiving break*     |           |
-| Dec 2  | Make-up/group work | Dec 4  | Presentations Week 5 | Dec 6   | *no meeting*             | Report #5 |
+| M      | Activity             | W      | Activity              | F      | Activity             | Report Due                     |
+|--------|----------------------|--------|-----------------------|--------|----------------------|--------------------------------|
+|        |                      | Sep 23 |                       | Sep 25 | *no meeting*         |                                |
+| Sep 28 | Syllabus/Safety      | Sep 30 | *no meeting*          | Oct 2  | *no meeting*         |                                |
+| Oct 5  | Rotation A Session 1 | Oct 7  | Rotation A Session 1  | Oct 9  | Reporting            |                                |
+| Oct 12 | Rotation B Session 1 | Oct 14 | Rotation B Session 1  | Oct 16 | Reporting            |                                |
+| Oct 19 | Rotation A Session 2 | Oct 21 | Rotation A Session 2  | Oct 23 | Reporting            | Monday: Rotation A Report #1   |
+| Oct 26 | Rotation B Session 2 | Oct 28 | Rotation B Session 2  | Oct 30 | Reporting            | Monday: Rotation B Report #1   |
+| Nov 2  | Make-up              | Nov 4  | Make-up               | Nov 6  | Reporting            |                                |
+| Nov 9  | Rotation A Session 3 | Nov 11 | Rotation A Session 3  | Nov 13 | Reporting            | Monday: Rotation A Report #2   |
+| Nov 16 | Rotation B Session 3 | Nov 18 | Rotation B Session 3  | Nov 20 | Reporting            | Monday: Rotation B Report #2   |
+| Nov 23 | Make-up              | Nov 25 | Make-up               | Nov 27 | *Thanksgiving break* |                                |
+# | Nov 30 | Make-up              | Dec 2  | Make-up               | Dec 4  | *no meeting*         | Monday: Rotation A/B Report #3 |
 
-
-#### Group Schedule
-
-You will rotate through Labs 1 through 5 according to the schedule below. Please see Canvas for your group assignments.
-
-| Group    | Sep 30  | Oct 7  | Oct 14 | Oct 21  | Oct 28 |
-|----------|---------|--------|--------|---------|--------|
-| Group 1  | Lab 1   | Lab 2  | Lab 3  | Lab 4   | Lab 5  |
-| Group 2  | Lab 5   | Lab 1  | Lab 2  | Lab 3   | Lab 4  |
-| Group 3  | Lab 4   | Lab 5  | Lab 1  | Lab 2   | Lab 3  |
-| Group 4  | Lab 3   | Lab 4  | Lab 5  | Lab 1   | Lab 2  |
-| Group 5  | Lab 2   | Lab 3  | Lab 4  | Lab 5   | Lab 1  |
 
 #### Assessment
-Assessment of learning objectives will be through participation, presentations, and laboratory reports. 
+Assessment of learning objectives will be through participation and laboratory reports. 
 
 
 #### Evaluation of Student Performance
 
 The grade components in the class include:
 
-| Activity      | Weight | Details                                                        |
-| --------------|--------|----------------------------------------------------------------|
-| Laboratory Reports     | 50%    | Five (5) laboratory reports.                          |
-| Presentations          | 30%    | Two (2) group presentations.                          |
-| Participation          | 20%    | Attendance and participation.                         |
+| Activity       | Weight   | Details                                                                       |
+| -------------- | -------- | ----------------------------------------------------------------              |
+| Reports        | 10%      | Prelab Quizzes.  |
+| Reports | 90% | Three (3) laboratory reports. Laboratory report rubric factors in attendance. |
+
 
 **Laboratory Reports**
-Each group will turn in a report for each of the five labs that summarizes the experimental design and results. The grade assigned to each student will be based on a rubric that includes quality of the data and report and will be weighted based on individual contribution to the lab and report. 
-
-**Presentations**
-Each student will be required to contribute to group presentations on results from two of the five labs. One objective is to help students place their results into context by comparing and contrasting with those from other groups.
+Each **individual** will turn in a report for each of the three labs that summarizes the experimental design and results. The grade assigned to each student will be based on a rubric that includes prelab reports, attendance, and quality of the written report. Details are provided in the [Lab Reports](https://mdpetters.github.io/enve160b/labreport/) section.
 
 **Participation**
-Attendance in lab sessions and discussion is mandatory. Lab sessions marked as as make-up/group work are available for meetings of the groups with the instructor to discuss expectations and hypotheses for upcoming labs and findings and analysis for completed labs. Participation in the meetings and in other discussions in lab contributes  20% of your course grade. The participation score will be computed based on recorded attendance, participation in discussion, and peer-evaluations of group work. 
+Attendance in lab sessions and discussion is mandatory. Lab sessions marked as as make-up/group work are available for meetings of the groups with the instructor to discuss expectations and hypotheses for upcoming labs and findings and analysis for completed labs. 
 
 **Late Homework**
 Late submissions will receive no credit. An extension with partial credit *may* be granted if the student can document extenuating circumstances related to an extensive period of excused absence between the date that the homework assigned and the due date. In addition, *religious observances* or other *unanticipated life events* may interfere with class attendance and homework submission. These *may* qualify for an extension, provided sufficient documentation is presented. 
+
+**Lab Safety**
+You need to follow the lab safety guidelines. If you are excluded due to improper preparedness (lack of personal protective equipment, lack of proper training you will not be allowed into the laboratory and will not receive attendance credit). 
+
 
 **Definition of Letter Grades**
 
@@ -199,7 +186,6 @@ Students may be required to disclose personally identifiable information to othe
 
 *Digital Course Components:* Digital course components include 
 - Canvas Learning Management System
-- Poll Everywhere
 
 #### Non-Discrimination Policy
 It is the policy of the University of California Riverside not to engage in discrimination against or harassment of any person employed or seeking employment with the University of California on the basis of race, color, national origin, religion, sex, gender, gender expression, gender identity, pregnancy, physical or mental disability, medical condition, genetic information, ancestry, marital status, age, sexual orientation, citizenship, or service in the uniformed services. Furthermore, University policy prohibits retaliation against any member of the University community filing a complaint of discrimination or harassment. This policy is intended to be consistent with the provisions of applicable State and Federal laws and University policies. 
@@ -215,11 +201,11 @@ If you or someone you know are in need of economic, food or housing support, you
  Categories of self care include biobehavioral (e.g., get plenty of sleep), affective-cognitive (e.g., watching a favorite, comforting movie), relational (e.g., talking with a friend), and spiritual (e.g., connecting with a faith community or the natural environment). In addition to the following resources, your instructor and TA are available to provide support and referrals.
 
 **University resources that may help you include:**
-- Counseling Center: (951) 827-5531 | [link](http://counseling.ucr.edu/Pages/default.aspx)
-- Wellness Center: [link](http://well.ucr.edu/Pages/default.aspx)
-- Campus Health Center: (951) 827-3031 | [link](http://campushealth.ucr.edu/Pages/default.aspx)
-- Student Special Services (for students with disabilities and veterans): [link](http://specialservices.ucr.edu/Pages/default.aspx)
-- Ethnic and gender program offices: [link](http://www.ucr.edu/students/ethnic_gender.html)
+- Counseling Center: (951) 827-5531 | [link](https://counseling.ucr.edu/)
+- Wellness Center: [link](https://well.ucr.edu/)
+- Campus Health Center: (951) 827-3031 | [link](https://campushealth.ucr.edu/)
+- Student Special Services (for students with disabilities and veterans): [link](https://sdrc.ucr.edu/)
+- Ethnic and gender program offices: [link](https://www.ucr.edu/students/ethnic_gender.html)
 - Healing Highlanders Collegiate Recovery Program: [link](http://healinghighlanders.weebly.com)
 - Campus Safety Escort Service: (951) 827-3772
 - UCR Ombudsperson: (951) 827-3213,
@@ -230,7 +216,7 @@ If you or someone you know are in need of economic, food or housing support, you
 - Office of the Ombuds: (951) 827-3213
 - Campus advocate for campus members affected by interpersonal violence:\\
 Naddia Palacios | naddia.palacios@ucr.edu \\
-384 and 386 Surge Building | (951) 827-6225 | [link](http://advocacy.ucr.edu/services.html)
+384 and 386 Surge Building | (951) 827-6225 | [link](https://care.ucr.edu/)
 
 **Off-campus resources include:**
 - Alternatives to Domestic Violence: (800) 339-7233

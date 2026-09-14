@@ -1,7 +1,7 @@
 # Safety Protocols
 
 \outline{
-Prior to the start of experiments, students will need to complete the following safety training available at [https://ucrlearning.ucr.edu/](https://ucrlearning.ucr.edu/). Do not wait until last minute, the training process takes several days if there are access issues.
+Prior to the start of experiments, students will need to complete the safety training offered on through Canvas. Do not wait until last minute, the training process takes several days if there are access issues.
 
 **You will not be allowed to enter the laboratory if you have not uploaded certificates for**
 
@@ -20,7 +20,7 @@ Because of their lack of protection, shorts and dresses (even when worn with tig
 
 
 \cauton{
-**Students will not be allowed to enter the laboratory if not properly clothed.**
+**Students will not be allowed to enter the laboratory if not properly clothed. If you come not properly closed you will be asked to leave and not receive attendance credits for the lab**
 }
 
 All persons in the laboratory shall wear eye protection with impact and splash protection whenever any chemicals or glassware are in use or on the benches anywhere in the laboratory. Splash goggles must be used when working with organic solvents (acetone) or corrosives greater than 1M in concentration. Safety glasses must be worn at all other times. PPE is required at all times in the lab, this includes coming to the lab to speak with the TAs or even at times when experiments are not being conducted. Always remove gloves and thoroughly wash your hands before exiting the laboratory. Students who are asked more than twice (in one lab period) to put their PPE on or follow any other safety procedure will be dismissed from the lab for that period. 

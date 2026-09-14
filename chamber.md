@@ -1,51 +1,103 @@
-# Ozonolysis of Alkenes
-
+# Photochemical Cycle of $NO_2$, $NO$, and $O_3$
 
 \learning{
-*At the end of this lab you will be*
-- familiar with environmental chamber design and operation
-- explain the principle of operation of $O_3$ and $NO_x$ gas-phase monitors
-- able to carry out VOC oxidation experiments
-- able to estimate reaction rates from experimental data
-- able to explain the formation of secondary organic aerosol 
-- able to contextualize measurements within the peer-reviewed literature  
+- Perform photochemical reactions inside environmental chambers.
+- Explain the principle of operation of $O_3$ and $NO_x$ gas-phase monitors.
+- Explain the photochemical cycle of $O_3$, $NO$, and $NO_2$.
+- Measure and calculate the ozone produced at the photostationary state.
 }
+
+## Required Reading
+
+Chapter 12, Ozone Air Pollution, from [Introduction to Atmospheric Chemistry](https://acmg.seas.harvard.edu/education-introduction-atmospheric-chemistry/).
+
+
+
+## Background
+
+![Ozone Photochemistry](/assets/ozone_photochemistry_small.png)
+
+Ozone is a gas composed of three atoms of oxygen ($O_3$). Ozone in the air we breathe can harm our health, especially on hot sunny days when ozone can reach unhealthy levels. People at greatest risk of harm from breathing air containing ozone include people with asthma. Elevated exposures to ozone can affect sensitive vegetation and ecosystems, including forests, parks, wildlife refuges and wilderness areas.  In particular, ozone can harm sensitive vegetation during the growing season. (Source: [EPA](https://www.epa.gov/ground-level-ozone-pollution/ground-level-ozone-basics)). Tropospheric $O_3$ is generated from to major classes of precursor molecules: volatile organic compounds (VOCs) and nitrogen oxides $NO_x$, which is the sum of $NO$ and $NO_2$. Most of the direct emissions on $NO_x$ are in the form of $NO$. Ozone levels exceeding 200 ppb are considered severe air pollution episodes. The current U.S. National Ambient Air Quality Standard for $O_3$ is an 8-hour average of 70 ppb. Understanding VOC chemistry is critical to explain the total ambient $O_3$ concentrations. Nevertheless, the photochemical cycle of $NO_2$, $NO$, and $O_3$ remains the starting point for modeling tropospheric $O_3$ production.
+
+
+### Photochemical $O_3$ Production from $NO_x$
+
+Sunlight at wavelength < 424 nm photolizes $NO_2$ into $NO$ and atomic $O$
+
+$$
+NO_2 + h\nu \rightarrow NO + O
+$$
+
+The atomic $O$ reacts with oxygen $O_2$ to form $O_3$. Reaction (2) is the only source of atmospheric $O_3$.
+
+$$
+O + O_2 + M \rightarrow O_3 + M
+$$
+
+where $M$ is a third body required to stabilize the excited product $OO_2^\star$ by collision. Finally $O_3$ reacts with $NO$ to regenerate $NO_2$
+
+$$
+O_3 + NO \rightarrow NO_2 + O_2
+$$ 
+
+Reactions (1)-(3) form the basic photochemical $NO_x$ cycle. Cycling between $NO$ and $NO_2$ takes place in the troposphere on a time scale of a minute in the daytime. There is no net production of $O_3$, but some $O_3$ is present. The steady state $O_3$ concentration is 
+
+$$
+ [O_3] = -\frac{1}{2} \left ( [NO]_0 - [O_3]_0 + \frac{j_{NO_2}}{k_3} \right ) \\
+      + \frac{1}{2} \left [ \left ( [NO]_0 - [O_3]_0 + \frac{j_{NO_2}}{k_3} \right )^2 + 4 \frac{j_{NO_2}}{k_3} \left ( [NO_2]_0 + [O_3]_0 \right ) \right ]^{1/2}
+$$
+
+The ratio $j_{NO_2}/k_3$ depends on sunlight or blacklight intensity. For full blacklight intensity in the chamber used in this lab, $j_{NO_2}/k_3 \approx 10.2\; ppb$. The characteristic relaxation time to steady state is 
+
+$$
+\tau = \frac{1}{k_3 [NO]}
+$$
+
+where $k_3 = 1.9\times 10^{-14} \; cm^{3}\;  molecule^{-1} \; s^{-1}$ at $T = 298K$.
+
+### Reaction Kinetics
+
+The photolysis rate $j_{NO_2}$ depends on the actinic flux (intensity of sunlight or intensity of blacklights). At noon in the cloud-free atmosphere $j_{NO_2} \approx 8\times 10^{-3}\; s^{-1}$ and otherwise lower. The value for $k_3 = 1.9\times 10^{-14} \; cm^{3}\;  molecule^{-1} \; s^{-1}$ at $T = 298K$. The figure below shows a typical evolution of $NO_2$, $NO$, and $O_3$ for the experiment you are going to perform. At $t = 0$ the conditions are $[O_3]_0 = 0\; ppb$, $[NO]_0 = 60\; ppb$, and $[NO_2]_0 = 450\; ppb$. The blacklights are turned on at $t = 0$. Predictions for the photostationary state concentration and relaxation time based on Eqs. (4) and (5) are provided. After 5 min, the lights are turned off and the system restores to the initial state. 
+
+![Simulation Results](/assets/simulation.png)
 
 \prompt{
-The goal is to measure the reactions of alkenes with ozone inside an environmental chamber. The group will prepare a mix of $O_3$, $NO_x$, and reactive alkene inside an environmental chamber and monitor the decay of $O_3$ with time. You should first add $O_3$, $NO_x$, and turn on the light. Then add 100 ppb of alkene. For the report you should detail the origin of alkenes in the atmosphere, the alkene ozonolysis mechanism, estimate products, estimate the reaction rate of the alkene with ozone, and of the stable Crigee intermediate with NO and $NO_2$. Contrast the rate with values found in the peer-reviewed literature. Explain the principle of operation of the gas-phase monitors. Discuss the role of wall loss and other potential experimental artifacts that may bias your results. Also discuss the implication for secondary organic aerosol formation, including estimates of particulate matter mass that may have formed in the you reaction.     
+The goal is to measure the photostationary steady state of the $NO_2$, $NO$, and $O_3$ system. The environmental chamber will be filled with zero air that is free of VOCs and other chemicals. A mix of $[NO]_0$  $[NO_2]_0$ and $[O_3]_0$ will be added to the chamber and the system will be allowed to equilibrate. Concentrations of $NO_2$, $NO$, and $O_3$ will be monitored in real time using gas-analyzers. After the system is equilibrated, blacklights will be turned on. The blacklights provide photons $\lambda < 424\; nm$, thus initiating the photolysis of $NO_2$ and the production of $O_3$. Observe the formation of $O_3$ until the photostationary state of the system is reached. Then turn off the light and observe the reaction of $NO$ with $O_3$, returning the system back to the initial state. Repeat the cycle at least once, preferably twice to ensure consistent results.
+
+*During the Lab*
+
+- Make sure the $O_3$ and $NO_x$ gas analyzers are running. Make sure that the data acquisition system is turned on and recording data. Compare the computer logged data on the screen to the values reported on the analyzers.  Fill the chamber with zero air. Verify that initial concentrations are approximately zero. Add the $NO$/$NO_2$ mixture to the chamber. Record the initial $NO$, $NO_2$ and $O_3$ concentrations. Turn on the light and let the system equilibrate to the photostationary steady state. Turn off the light and observe reversion to the initial state. 
+- Make a draft of the schematic drawing of the experimental setup. Carefully indicate (1) All of the instruments involved, including vacuum pumps, instruments, flow rates, flow paths, light sources (location and number), compressed air sources, and data acquisition system. (2) How the reactants are added to the chamber, (3) timings of reactants added and lights turning on and off. You should make a sketch during the experiment.
+- Make a draft of the schematic drawing of the O3 analyzer and discuss with your group and/or TA. 
+- Download the data from the computer for later analysis.
 }
 
-~~~
-<img src="/assets/ozone.jpg" alt="POM" style="width:200px;">
-~~~
+## Report 
+
+Please follow the [report outline](https://docs.google.com/document/d/1IzfiSnkv9lwBkknXHKjJsLFzyCnfKwh2Q_X9xTLBZG4/edit?usp=sharing).
+
+Don't forget to print and paste the [grading rubric](https://docs.google.com/document/d/13-KuUIEgavq18SuWSS4LJvFvVdt0BesU7G78qKYnscY/edit?usp=sharing) at the end of your report. Not providing the grading rubric will lead to point deductions. Use the grading rubric as a checklist for how to prepare a proper report.
+
+
+## Methods
+
+This lab uses an environmental chamber, a photometric UV absorption $O_3$ analyzer and a chemiluminescence $NO_x$ analyzer. 
 
 ~~~
-<img src="/assets/nox.png" alt="airbeam" style="width:200px;">
+<img src="/assets/chamber.jpg" alt="Chamber" style="width:180px;">
 ~~~
 
-This lab uses an environmental chamber, a photometric UV absorption $O_3$ analyzer and a chemiluminescence $NO_x$ analyzer. To measure $O_3$, a 254 nm UV light signal is passed through the sample cell where it is absorbed in proportion to the amount of ozone present. Periodically, a switching valve alternates measurement between the sample stream and a sample that has been scrubbed of ozone. The $NO_x$ instrument determines the concentration of nitric oxide ($NO$), total nitrogen oxides ($NO_x$) , the sum of $NO$ and $NO_2$) and nitrogen dioxide ($NO_2$) in a sample stream. The principle of operation is [chemiluminescence](https://en.wikipedia.org/wiki/Chemiluminescence). Chemiluminescence is the emission of light from a chemical reaction and is triggered by the reaction of $NO$ with ozone $O_3$. The amount of light produced is linear with $NO$ concentration. $NO_2$ is measured by converting $NO_2$ with to $NO$ using heated molybdenum converter chip. 
+~~~
+<img src="/assets/ozone.jpg" alt="POM" style="width:220px;">
+~~~
 
-## Background/Motivation
+~~~
+<img src="/assets/nox.png" alt="airbeam" style="width:190px;">
+~~~
 
-Alkenes are ubiquitous atmospheric VOCs that originate from both biogenic and anthropogenic sources. The double bond reacts quickly with $O_3$ and is one of the major degradation pathways of alkenes. The ozone alkene reaction starts with the $O_3$ addition to the double bond resulting in a primary ozonide. The primary ozonide decomposes into an aldehyde and a stabilized Crigee intermediate (SCI) biradical. The SCI then reacts with either (a) an adehyde, (b) an alcohol, (d) carbon monoxide,  (e) sulfur dioxide, (f) water vapor, (g) $NO$ or $NO_2$, or (h) with itself. Some of these compounds will then go on and contribute to PM2.5. Furthermore hydroxyl radicals are formed from the reaction at high yield. The alkene + $O_3$ reaction is therefore important for understanding the degradation and fate of alkenes in the atmosphere, for understanding the OH budget in the atmosphere, and for understanding PM2.5 formation from VOCs in the atmosphere. 
-
-![](/assets/alkene.png)
-
-**Source.** Suda et al. (2012, doi:10.1029/2011JD016823).
-
-Before the experiment, you will receive reagents from your TA, including a glass bulb with $O_3$, a glass bulb with $NO$, an empty glass bulb, and a vial with an alkene, and a vial with butanol. The $O_3$ and $NO$ bulbs will be pre-measured for you to give a concentration of ~500 ppb of $O_3$ and ~200 ppb of $NO$. You need to calculate the liquid volume of alkene and butanol to add to the bulb and then chamber. The target amount is ~100 ppb of alkene and ~200 ppb of butanol. Butanol will not react with $O_3$, but will react with $OH$ radicals formed during ozonolysis. This will allow you to use the decay of $O_3$ to estimate the reaction kinetics. You should investigate the decay of $NO$ and $NO_2$, but realize that the rate will be not only determined by SCI + $NO$ and SCI + $NO_2$, but also by additional radical reactions occurring in the chamber. 
-
-
-
+The environmental chamber consists of a Teflon bag housed inside an enclosure that is lined with blacklights. The blacklights can be turned on/off using switches. An injection port is available to add reagents. You will receive a glass bulb that contains a nominal amount of $NO$. You will add the $NO$ with the help of the TA and/or the instructor. Ozone is measured using a gas-analyzer. A 254 nm UV light signal is passed through the sample cell where it is absorbed in proportion to the amount of ozone present. Periodically, a switching valve alternates measurement between the sample stream and a sample that has been scrubbed of ozone. $NO_x$ is measured using a second gas analyzer. The $NO_x$ instrument determines the concentration of nitric oxide ($NO$), total nitrogen oxides ($NO_x$) , the sum of $NO$ and $NO_2$) and nitrogen dioxide ($NO_2$) in a sample stream. The principle of operation is [chemiluminescence](https://en.wikipedia.org/wiki/Chemiluminescence). Chemiluminescence is the emission of light from a chemical reaction and is triggered by the reaction of $NO$ with ozone $O_3$. The amount of light produced is linear with $NO$ concentration. $NO_2$ is measured by converting $NO_2$ with to $NO$ using heated molybdenum converter chip. 
 
 ## Resources
 
-O3 Analyzer Manual [(link)](https://www.teledyne-api.com/prod/Downloads/T400%20MANUAL,%20USER,%20NVS,%20T400%20083730400B.pdf)
+Teledyne Product Manuals ($O_3$ analyzer and $NO_x$ analyzer) [link](https://www.teledyne-api.com/en-us/service-support/product-manuals)
 
-NOx Analyzer Manual [(link)](https://www.teledyne-api.com/prod/Downloads/083730200C%20-%20MANUAL,%20USER%20NVS,%20T200-T200U.pdf)
-
-Gas-Phase Tropospheric Chemistry of Volatile Organic Compounds: 1. Alkanes and Alkenes [(link)](https://pubs.aip.org/aip/jpr/article/26/2/215/241782/Gas-Phase-Tropospheric-Chemistry-of-Volatile)
-
-Atmospheric Degradation of Volatile Organic Compounds [(link)](https://pubs.acs.org/doi/epdf/10.1021/cr0206420?ref=article_openPDF)
-
-Kinetic and mechanism studies of the ozonolysis of three unsaturated ketones [(link)](https://www.sciencedirect.com/science/article/pii/S1001074220301121)
